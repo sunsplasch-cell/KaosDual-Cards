@@ -1,0 +1,3579 @@
+{
+  "eons elite|elite boomer": {
+    "name": "Elite Boomer",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-boomer.webp",
+    "card": "cards/eons-elite--elite-boomer.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Boomer.jpg"
+  },
+  "eons elite|elite chop chop": {
+    "name": "Elite Chop Chop",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-chop-chop.webp",
+    "card": "cards/eons-elite--elite-chop-chop.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Chop Chop.jpg"
+  },
+  "eons elite|elite dino rang": {
+    "name": "Elite Dino Rang",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-dino-rang.webp",
+    "card": "cards/eons-elite--elite-dino-rang.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Dino Rang.jpg"
+  },
+  "eons elite|elite eruptor": {
+    "name": "Elite Eruptor",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-eruptor.webp",
+    "card": "cards/eons-elite--elite-eruptor.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Eruptor.jpg"
+  },
+  "eons elite|elite ghoast roaster": {
+    "name": "Elite Ghoast Roaster",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-ghoast-roaster.webp",
+    "card": "cards/eons-elite--elite-ghoast-roaster.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Ghoast Roaster.jpg"
+  },
+  "eons elite|elite gill grunt": {
+    "name": "Elite Gill Grunt",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-gill-grunt.webp",
+    "card": "cards/eons-elite--elite-gill-grunt.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Gill Grunt.jpg"
+  },
+  "eons elite|elite slam bam": {
+    "name": "Elite Slam Bam",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-slam-bam.webp",
+    "card": "cards/eons-elite--elite-slam-bam.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Slam Bam.jpg"
+  },
+  "eons elite|elite spyro": {
+    "name": "Elite Spyro",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-spyro.webp",
+    "card": "cards/eons-elite--elite-spyro.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Spyro.jpg"
+  },
+  "eons elite|elite stealth elf": {
+    "name": "Elite Stealth Elf",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-stealth-elf.webp",
+    "card": "cards/eons-elite--elite-stealth-elf.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Stealth Elf.jpg"
+  },
+  "eons elite|elite terrafin": {
+    "name": "Elite Terrafin",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-terrafin.webp",
+    "card": "cards/eons-elite--elite-terrafin.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Terrafin.jpg"
+  },
+  "eons elite|elite trigger happy": {
+    "name": "Elite Trigger Happy",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-trigger-happy.webp",
+    "card": "cards/eons-elite--elite-trigger-happy.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Trigger Happy.jpg"
+  },
+  "eons elite|elite voodood": {
+    "name": "Elite Voodood",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-voodood.webp",
+    "card": "cards/eons-elite--elite-voodood.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Voodood.jpg"
+  },
+  "eons elite|elite whirlwind": {
+    "name": "Elite Whirlwind",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-whirlwind.webp",
+    "card": "cards/eons-elite--elite-whirlwind.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Whirlwind.jpg"
+  },
+  "eons elite|elite zook": {
+    "name": "Elite Zook",
+    "game": "eons elite",
+    "portrait": "portraits/eons-elite--elite-zook.webp",
+    "card": "cards/eons-elite--elite-zook.webp",
+    "source": "Card Printouts/! Eons Elite/Elite Zook.jpg"
+  },
+  "spyros adventure|anvil rain": {
+    "name": "Anvil Rain",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--anvil-rain.webp",
+    "card": "cards/spyros-adventure--anvil-rain.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Anvil Rain.jpg"
+  },
+  "spyros adventure|bash": {
+    "name": "Bash",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--bash.webp",
+    "card": "cards/spyros-adventure--bash.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Bash.jpg"
+  },
+  "spyros adventure|boomer": {
+    "name": "Boomer",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--boomer.webp",
+    "card": "cards/spyros-adventure--boomer.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Boomer.jpg"
+  },
+  "spyros adventure|camo": {
+    "name": "Camo",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--camo.webp",
+    "card": "cards/spyros-adventure--camo.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Camo.jpg"
+  },
+  "spyros adventure|chop chop": {
+    "name": "Chop Chop",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--chop-chop.webp",
+    "card": "cards/spyros-adventure--chop-chop.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Chop Chop.jpg"
+  },
+  "spyros adventure|cynder": {
+    "name": "Cynder",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--cynder.webp",
+    "card": "cards/spyros-adventure--cynder.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Cynder.jpg"
+  },
+  "spyros adventure|dark spyro": {
+    "name": "Dark Spyro",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--dark-spyro.webp",
+    "card": "cards/spyros-adventure--dark-spyro.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Dark Spyro.jpg"
+  },
+  "spyros adventure|darklight crypt": {
+    "name": "Darklight Crypt",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--darklight-crypt.webp",
+    "card": "cards/spyros-adventure--darklight-crypt.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Darklight Crypt.jpg"
+  },
+  "spyros adventure|dino rang": {
+    "name": "Dino-Rang",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--dino-rang.webp",
+    "card": "cards/spyros-adventure--dino-rang.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Dino-Rang.jpg"
+  },
+  "spyros adventure|double trouble": {
+    "name": "Double Trouble",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--double-trouble.webp",
+    "card": "cards/spyros-adventure--double-trouble.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Double Trouble.jpg"
+  },
+  "spyros adventure|dragon s peak": {
+    "name": "Dragon's Peak",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--dragon-s-peak.webp",
+    "card": "cards/spyros-adventure--dragon-s-peak.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Dragon's Peak.jpg"
+  },
+  "spyros adventure|drill sergeant": {
+    "name": "Drill Sergeant",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--drill-sergeant.webp",
+    "card": "cards/spyros-adventure--drill-sergeant.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Drill Sergeant.jpg"
+  },
+  "spyros adventure|drobot": {
+    "name": "Drobot",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--drobot.webp",
+    "card": "cards/spyros-adventure--drobot.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Drobot.jpg"
+  },
+  "spyros adventure|empire of ice": {
+    "name": "Empire of Ice",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--empire-of-ice.webp",
+    "card": "cards/spyros-adventure--empire-of-ice.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Empire of Ice.jpg"
+  },
+  "spyros adventure|eruptor": {
+    "name": "Eruptor",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--eruptor.webp",
+    "card": "cards/spyros-adventure--eruptor.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Eruptor.jpg"
+  },
+  "spyros adventure|flameslinger": {
+    "name": "Flameslinger",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--flameslinger.webp",
+    "card": "cards/spyros-adventure--flameslinger.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Flameslinger.jpg"
+  },
+  "spyros adventure|ghost roaster": {
+    "name": "Ghost Roaster",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--ghost-roaster.webp",
+    "card": "cards/spyros-adventure--ghost-roaster.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Ghost Roaster.jpg"
+  },
+  "spyros adventure|ghost swords": {
+    "name": "Ghost Swords",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--ghost-swords.webp",
+    "card": "cards/spyros-adventure--ghost-swords.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Ghost Swords.jpg"
+  },
+  "spyros adventure|gill grunt": {
+    "name": "Gill Grunt",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--gill-grunt.webp",
+    "card": "cards/spyros-adventure--gill-grunt.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Gill Grunt.jpg"
+  },
+  "spyros adventure|gill runt": {
+    "name": "Gill Runt",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--gill-runt.webp",
+    "card": "cards/spyros-adventure--gill-runt.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Gill Runt.jpg"
+  },
+  "spyros adventure|healing elixir": {
+    "name": "Healing Elixir",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--healing-elixir.webp",
+    "card": "cards/spyros-adventure--healing-elixir.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Healing Elixir.jpg"
+  },
+  "spyros adventure|hex": {
+    "name": "Hex",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--hex.webp",
+    "card": "cards/spyros-adventure--hex.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Hex.jpg"
+  },
+  "spyros adventure|hidden treasure": {
+    "name": "Hidden Treasure",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--hidden-treasure.webp",
+    "card": "cards/spyros-adventure--hidden-treasure.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Hidden Treasure.jpg"
+  },
+  "spyros adventure|ignitor": {
+    "name": "Ignitor",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--ignitor.webp",
+    "card": "cards/spyros-adventure--ignitor.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Ignitor.jpg"
+  },
+  "spyros adventure|iron shield": {
+    "name": "Iron Shield",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--iron-shield.webp",
+    "card": "cards/spyros-adventure--iron-shield.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Iron Shield.jpg"
+  },
+  "spyros adventure|legendary bash": {
+    "name": "Legendary Bash",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--legendary-bash.webp",
+    "card": "cards/spyros-adventure--legendary-bash.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Legendary Bash.jpg"
+  },
+  "spyros adventure|legendary chop chop": {
+    "name": "Legendary Chop Chop",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--legendary-chop-chop.webp",
+    "card": "cards/spyros-adventure--legendary-chop-chop.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Legendary Chop Chop.jpg"
+  },
+  "spyros adventure|legendary spyro": {
+    "name": "Legendary Spyro",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--legendary-spyro.webp",
+    "card": "cards/spyros-adventure--legendary-spyro.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Legendary Spyro.jpg"
+  },
+  "spyros adventure|legendary trigger happy": {
+    "name": "Legendary Trigger Happy",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--legendary-trigger-happy.webp",
+    "card": "cards/spyros-adventure--legendary-trigger-happy.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Legendary Trigger Happy.jpg"
+  },
+  "spyros adventure|lightning rod": {
+    "name": "Lightning Rod",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--lightning-rod.webp",
+    "card": "cards/spyros-adventure--lightning-rod.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Lightning Rod.jpg"
+  },
+  "spyros adventure|pirate seas": {
+    "name": "Pirate Seas",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--pirate-seas.webp",
+    "card": "cards/spyros-adventure--pirate-seas.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Pirate Seas.jpg"
+  },
+  "spyros adventure|prism break": {
+    "name": "Prism Break",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--prism-break.webp",
+    "card": "cards/spyros-adventure--prism-break.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Prism Break.jpg"
+  },
+  "spyros adventure|slam bam": {
+    "name": "Slam Bam",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--slam-bam.webp",
+    "card": "cards/spyros-adventure--slam-bam.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Slam Bam.jpg"
+  },
+  "spyros adventure|sonic boom": {
+    "name": "Sonic Boom",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--sonic-boom.webp",
+    "card": "cards/spyros-adventure--sonic-boom.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Sonic Boom.jpg"
+  },
+  "spyros adventure|sparx": {
+    "name": "Sparx",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--sparx.webp",
+    "card": "cards/spyros-adventure--sparx.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Sparx.jpg"
+  },
+  "spyros adventure|spyro": {
+    "name": "Spyro",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--spyro.webp",
+    "card": "cards/spyros-adventure--spyro.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Spyro.jpg"
+  },
+  "spyros adventure|stealth elf": {
+    "name": "Stealth Elf",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--stealth-elf.webp",
+    "card": "cards/spyros-adventure--stealth-elf.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Stealth Elf.jpg"
+  },
+  "spyros adventure|stump smash": {
+    "name": "Stump Smash",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--stump-smash.webp",
+    "card": "cards/spyros-adventure--stump-smash.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Stump Smash.jpg"
+  },
+  "spyros adventure|sunburn": {
+    "name": "Sunburn",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--sunburn.webp",
+    "card": "cards/spyros-adventure--sunburn.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Sunburn.jpg"
+  },
+  "spyros adventure|terrabite": {
+    "name": "Terrabite",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--terrabite.webp",
+    "card": "cards/spyros-adventure--terrabite.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Terrabite.jpg"
+  },
+  "spyros adventure|terrafin": {
+    "name": "Terrafin",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--terrafin.webp",
+    "card": "cards/spyros-adventure--terrafin.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Terrafin.jpg"
+  },
+  "spyros adventure|time twister": {
+    "name": "Time Twister",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--time-twister.webp",
+    "card": "cards/spyros-adventure--time-twister.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Time Twister.jpg"
+  },
+  "spyros adventure|trigger happy": {
+    "name": "Trigger Happy",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--trigger-happy.webp",
+    "card": "cards/spyros-adventure--trigger-happy.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Trigger Happy.jpg"
+  },
+  "spyros adventure|trigger snappy": {
+    "name": "Trigger Snappy",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--trigger-snappy.webp",
+    "card": "cards/spyros-adventure--trigger-snappy.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Trigger Snappy.jpg"
+  },
+  "spyros adventure|volcanic vault": {
+    "name": "Volcanic Vault",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--volcanic-vault.webp",
+    "card": "cards/spyros-adventure--volcanic-vault.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Volcanic Vault.jpg"
+  },
+  "spyros adventure|voodood": {
+    "name": "Voodood",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--voodood.webp",
+    "card": "cards/spyros-adventure--voodood.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Voodood.jpg"
+  },
+  "spyros adventure|warnado": {
+    "name": "Warnado",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--warnado.webp",
+    "card": "cards/spyros-adventure--warnado.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Warnado.jpg"
+  },
+  "spyros adventure|wham shell": {
+    "name": "Wham-Shell",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--wham-shell.webp",
+    "card": "cards/spyros-adventure--wham-shell.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Wham-Shell.jpg"
+  },
+  "spyros adventure|whirlwind": {
+    "name": "Whirlwind",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--whirlwind.webp",
+    "card": "cards/spyros-adventure--whirlwind.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Whirlwind.jpg"
+  },
+  "spyros adventure|whisper elf": {
+    "name": "Whisper Elf",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--whisper-elf.webp",
+    "card": "cards/spyros-adventure--whisper-elf.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Whisper Elf.jpg"
+  },
+  "spyros adventure|winged boots": {
+    "name": "Winged Boots",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--winged-boots.webp",
+    "card": "cards/spyros-adventure--winged-boots.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Winged Boots.jpg"
+  },
+  "spyros adventure|wrecking ball": {
+    "name": "Wrecking Ball",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--wrecking-ball.webp",
+    "card": "cards/spyros-adventure--wrecking-ball.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Wrecking Ball.jpg"
+  },
+  "spyros adventure|zap": {
+    "name": "Zap",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--zap.webp",
+    "card": "cards/spyros-adventure--zap.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Zap.jpg"
+  },
+  "spyros adventure|zook": {
+    "name": "Zook",
+    "game": "spyros adventure",
+    "portrait": "portraits/spyros-adventure--zook.webp",
+    "card": "cards/spyros-adventure--zook.webp",
+    "source": "Card Printouts/1. Spyro's Adventure/Zook.jpg"
+  },
+  "giants|barkley": {
+    "name": "Barkley",
+    "game": "giants",
+    "portrait": "portraits/giants--barkley.webp",
+    "card": "cards/giants--barkley.webp",
+    "source": "Card Printouts/2. Giants/Barkley.jpg"
+  },
+  "giants|bouncer": {
+    "name": "Bouncer",
+    "game": "giants",
+    "portrait": "portraits/giants--bouncer.webp",
+    "card": "cards/giants--bouncer.webp",
+    "source": "Card Printouts/2. Giants/Bouncer.jpg"
+  },
+  "giants|chill": {
+    "name": "Chill",
+    "game": "giants",
+    "portrait": "portraits/giants--chill.webp",
+    "card": "cards/giants--chill.webp",
+    "source": "Card Printouts/2. Giants/Chill.jpg"
+  },
+  "giants|crusher": {
+    "name": "Crusher",
+    "game": "giants",
+    "portrait": "portraits/giants--crusher.webp",
+    "card": "cards/giants--crusher.webp",
+    "source": "Card Printouts/2. Giants/Crusher.jpg"
+  },
+  "giants|dragonfire cannon": {
+    "name": "Dragonfire Cannon",
+    "game": "giants",
+    "portrait": "portraits/giants--dragonfire-cannon.webp",
+    "card": "cards/giants--dragonfire-cannon.webp",
+    "source": "Card Printouts/2. Giants/Dragonfire Cannon.jpg"
+  },
+  "giants|eye brawl": {
+    "name": "Eye-Brawl",
+    "game": "giants",
+    "portrait": "portraits/giants--eye-brawl.webp",
+    "card": "cards/giants--eye-brawl.webp",
+    "source": "Card Printouts/2. Giants/Eye-Brawl.jpg"
+  },
+  "giants|eye small": {
+    "name": "Eye-Small",
+    "game": "giants",
+    "portrait": "portraits/giants--eye-small.webp",
+    "card": "cards/giants--eye-small.webp",
+    "source": "Card Printouts/2. Giants/Eye-Small.jpg"
+  },
+  "giants|flashwing": {
+    "name": "Flashwing",
+    "game": "giants",
+    "portrait": "portraits/giants--flashwing.webp",
+    "card": "cards/giants--flashwing.webp",
+    "source": "Card Printouts/2. Giants/Flashwing.jpg"
+  },
+  "giants|fright rider": {
+    "name": "Fright Rider",
+    "game": "giants",
+    "portrait": "portraits/giants--fright-rider.webp",
+    "card": "cards/giants--fright-rider.webp",
+    "source": "Card Printouts/2. Giants/Fright Rider.jpg"
+  },
+  "giants|gnarly tree rex": {
+    "name": "Gnarly Tree Rex",
+    "game": "giants",
+    "portrait": "portraits/giants--gnarly-tree-rex.webp",
+    "card": "cards/giants--gnarly-tree-rex.webp",
+    "source": "Card Printouts/2. Giants/Gnarly Tree Rex.jpg"
+  },
+  "giants|golden dragonfire cannon": {
+    "name": "Golden Dragonfire Cannon",
+    "game": "giants",
+    "portrait": "portraits/giants--golden-dragonfire-cannon.webp",
+    "card": "cards/giants--golden-dragonfire-cannon.webp",
+    "source": "Card Printouts/2. Giants/Golden Dragonfire Cannon.jpg"
+  },
+  "giants|granite crusher": {
+    "name": "Granite Crusher",
+    "game": "giants",
+    "portrait": "portraits/giants--granite-crusher.webp",
+    "card": "cards/giants--granite-crusher.webp",
+    "source": "Card Printouts/2. Giants/Granite Crusher.jpg"
+  },
+  "giants|hot dog": {
+    "name": "Hot Dog",
+    "game": "giants",
+    "portrait": "portraits/giants--hot-dog.webp",
+    "card": "cards/giants--hot-dog.webp",
+    "source": "Card Printouts/2. Giants/Hot Dog.jpg"
+  },
+  "giants|hot head": {
+    "name": "Hot Head",
+    "game": "giants",
+    "portrait": "portraits/giants--hot-head.webp",
+    "card": "cards/giants--hot-head.webp",
+    "source": "Card Printouts/2. Giants/Hot Head.jpg"
+  },
+  "giants|jade flashwing": {
+    "name": "Jade Flashwing",
+    "game": "giants",
+    "portrait": "portraits/giants--jade-flashwing.webp",
+    "card": "cards/giants--jade-flashwing.webp",
+    "source": "Card Printouts/2. Giants/Jade Flashwing.jpg"
+  },
+  "giants|jet vac": {
+    "name": "Jet-Vac",
+    "game": "giants",
+    "portrait": "portraits/giants--jet-vac.webp",
+    "card": "cards/giants--jet-vac.webp",
+    "source": "Card Printouts/2. Giants/Jet-Vac.jpg"
+  },
+  "giants|lc drobot": {
+    "name": "Lc Drobot",
+    "game": "giants",
+    "portrait": "portraits/giants--lc-drobot.webp",
+    "card": "cards/giants--lc-drobot.webp",
+    "source": "Card Printouts/2. Giants/Lc Drobot.jpg"
+  },
+  "giants|legendary bouncer": {
+    "name": "Legendary Bouncer",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-bouncer.webp",
+    "card": "cards/giants--legendary-bouncer.webp",
+    "source": "Card Printouts/2. Giants/Legendary Bouncer.jpg"
+  },
+  "giants|legendary jet vac": {
+    "name": "Legendary Jet-Vac",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-jet-vac.webp",
+    "card": "cards/giants--legendary-jet-vac.webp",
+    "source": "Card Printouts/2. Giants/Legendary Jet-Vac.jpg"
+  },
+  "giants|legendary lightcore chill": {
+    "name": "Legendary Lightcore Chill",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-lightcore-chill.webp",
+    "card": "cards/giants--legendary-lightcore-chill.webp",
+    "source": "Card Printouts/2. Giants/Legendary Lightcore Chill.jpg"
+  },
+  "giants|legendary s2 ignitor": {
+    "name": "Legendary S2 Ignitor",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-s2-ignitor.webp",
+    "card": "cards/giants--legendary-s2-ignitor.webp",
+    "source": "Card Printouts/2. Giants/Legendary S2 Ignitor.jpg"
+  },
+  "giants|legendary s2 slam bam": {
+    "name": "Legendary S2 Slam Bam",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-s2-slam-bam.webp",
+    "card": "cards/giants--legendary-s2-slam-bam.webp",
+    "source": "Card Printouts/2. Giants/Legendary S2 Slam Bam.jpg"
+  },
+  "giants|legendary s2 stealth elf": {
+    "name": "Legendary S2 Stealth Elf",
+    "game": "giants",
+    "portrait": "portraits/giants--legendary-s2-stealth-elf.webp",
+    "card": "cards/giants--legendary-s2-stealth-elf.webp",
+    "source": "Card Printouts/2. Giants/Legendary S2 Stealth Elf.jpg"
+  },
+  "giants|lightcore chill": {
+    "name": "Lightcore Chill",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-chill.webp",
+    "card": "cards/giants--lightcore-chill.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Chill.jpg"
+  },
+  "giants|lightcore eruptor": {
+    "name": "Lightcore Eruptor",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-eruptor.webp",
+    "card": "cards/giants--lightcore-eruptor.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Eruptor.jpg"
+  },
+  "giants|lightcore hex": {
+    "name": "Lightcore Hex",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-hex.webp",
+    "card": "cards/giants--lightcore-hex.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Hex.jpg"
+  },
+  "giants|lightcore jet vac": {
+    "name": "Lightcore Jet-Vac",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-jet-vac.webp",
+    "card": "cards/giants--lightcore-jet-vac.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Jet-Vac.jpg"
+  },
+  "giants|lightcore pop fizz": {
+    "name": "Lightcore Pop Fizz",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-pop-fizz.webp",
+    "card": "cards/giants--lightcore-pop-fizz.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Pop Fizz.jpg"
+  },
+  "giants|lightcore prism break": {
+    "name": "Lightcore Prism Break",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-prism-break.webp",
+    "card": "cards/giants--lightcore-prism-break.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Prism Break.jpg"
+  },
+  "giants|lightcore shroomboom": {
+    "name": "Lightcore Shroomboom",
+    "game": "giants",
+    "portrait": "portraits/giants--lightcore-shroomboom.webp",
+    "card": "cards/giants--lightcore-shroomboom.webp",
+    "source": "Card Printouts/2. Giants/Lightcore Shroomboom.jpg"
+  },
+  "giants|mini jini": {
+    "name": "Mini-Jini",
+    "game": "giants",
+    "portrait": "portraits/giants--mini-jini.webp",
+    "card": "cards/giants--mini-jini.webp",
+    "source": "Card Printouts/2. Giants/Mini-Jini.jpg"
+  },
+  "giants|molten hot dog": {
+    "name": "Molten Hot Dog",
+    "game": "giants",
+    "portrait": "portraits/giants--molten-hot-dog.webp",
+    "card": "cards/giants--molten-hot-dog.webp",
+    "source": "Card Printouts/2. Giants/Molten Hot Dog.jpg"
+  },
+  "giants|ninjini": {
+    "name": "Ninjini",
+    "game": "giants",
+    "portrait": "portraits/giants--ninjini.webp",
+    "card": "cards/giants--ninjini.webp",
+    "source": "Card Printouts/2. Giants/Ninjini.jpg"
+  },
+  "giants|polar s2 whirlwind": {
+    "name": "Polar S2 Whirlwind",
+    "game": "giants",
+    "portrait": "portraits/giants--polar-s2-whirlwind.webp",
+    "card": "cards/giants--polar-s2-whirlwind.webp",
+    "source": "Card Printouts/2. Giants/Polar S2 Whirlwind.jpg"
+  },
+  "giants|pop fizz": {
+    "name": "Pop Fizz",
+    "game": "giants",
+    "portrait": "portraits/giants--pop-fizz.webp",
+    "card": "cards/giants--pop-fizz.webp",
+    "source": "Card Printouts/2. Giants/Pop Fizz.jpg"
+  },
+  "giants|punch pop fizz": {
+    "name": "Punch Pop Fizz",
+    "game": "giants",
+    "portrait": "portraits/giants--punch-pop-fizz.webp",
+    "card": "cards/giants--punch-pop-fizz.webp",
+    "source": "Card Printouts/2. Giants/Punch Pop Fizz.jpg"
+  },
+  "giants|s2 bash": {
+    "name": "S2 Bash",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-bash.webp",
+    "card": "cards/giants--s2-bash.webp",
+    "source": "Card Printouts/2. Giants/S2 Bash.jpg"
+  },
+  "giants|s2 chop chop": {
+    "name": "S2 Chop Chop",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-chop-chop.webp",
+    "card": "cards/giants--s2-chop-chop.webp",
+    "source": "Card Printouts/2. Giants/S2 Chop Chop.jpg"
+  },
+  "giants|s2 cynder": {
+    "name": "S2 Cynder",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-cynder.webp",
+    "card": "cards/giants--s2-cynder.webp",
+    "source": "Card Printouts/2. Giants/S2 Cynder.jpg"
+  },
+  "giants|s2 double trouble": {
+    "name": "S2 Double Trouble",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-double-trouble.webp",
+    "card": "cards/giants--s2-double-trouble.webp",
+    "source": "Card Printouts/2. Giants/S2 Double Trouble.jpg"
+  },
+  "giants|s2 drill sergeant": {
+    "name": "S2 Drill Sergeant",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-drill-sergeant.webp",
+    "card": "cards/giants--s2-drill-sergeant.webp",
+    "source": "Card Printouts/2. Giants/S2 Drill Sergeant.jpg"
+  },
+  "giants|s2 drobot": {
+    "name": "S2 Drobot",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-drobot.webp",
+    "card": "cards/giants--s2-drobot.webp",
+    "source": "Card Printouts/2. Giants/S2 Drobot.jpg"
+  },
+  "giants|s2 eruptor": {
+    "name": "S2 Eruptor",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-eruptor.webp",
+    "card": "cards/giants--s2-eruptor.webp",
+    "source": "Card Printouts/2. Giants/S2 Eruptor.jpg"
+  },
+  "giants|s2 flameslinger": {
+    "name": "S2 Flameslinger",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-flameslinger.webp",
+    "card": "cards/giants--s2-flameslinger.webp",
+    "source": "Card Printouts/2. Giants/S2 Flameslinger.jpg"
+  },
+  "giants|s2 gill grunt": {
+    "name": "S2 Gill Grunt",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-gill-grunt.webp",
+    "card": "cards/giants--s2-gill-grunt.webp",
+    "source": "Card Printouts/2. Giants/S2 Gill Grunt.jpg"
+  },
+  "giants|s2 hex": {
+    "name": "S2 Hex",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-hex.webp",
+    "card": "cards/giants--s2-hex.webp",
+    "source": "Card Printouts/2. Giants/S2 Hex.jpg"
+  },
+  "giants|s2 ignitor": {
+    "name": "S2 Ignitor",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-ignitor.webp",
+    "card": "cards/giants--s2-ignitor.webp",
+    "source": "Card Printouts/2. Giants/S2 Ignitor.jpg"
+  },
+  "giants|s2 lightning rod": {
+    "name": "S2 Lightning Rod",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-lightning-rod.webp",
+    "card": "cards/giants--s2-lightning-rod.webp",
+    "source": "Card Printouts/2. Giants/S2 Lightning Rod.jpg"
+  },
+  "giants|s2 prism break": {
+    "name": "S2 Prism Break",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-prism-break.webp",
+    "card": "cards/giants--s2-prism-break.webp",
+    "source": "Card Printouts/2. Giants/S2 Prism Break.jpg"
+  },
+  "giants|s2 royal double trouble": {
+    "name": "S2 Royal Double Trouble",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-royal-double-trouble.webp",
+    "card": "cards/giants--s2-royal-double-trouble.webp",
+    "source": "Card Printouts/2. Giants/S2 Royal Double Trouble.jpg"
+  },
+  "giants|s2 slam bam": {
+    "name": "S2 Slam Bam",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-slam-bam.webp",
+    "card": "cards/giants--s2-slam-bam.webp",
+    "source": "Card Printouts/2. Giants/S2 Slam Bam.jpg"
+  },
+  "giants|s2 sonic boom": {
+    "name": "S2 Sonic Boom",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-sonic-boom.webp",
+    "card": "cards/giants--s2-sonic-boom.webp",
+    "source": "Card Printouts/2. Giants/S2 Sonic Boom.jpg"
+  },
+  "giants|s2 spyro": {
+    "name": "S2 Spyro",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-spyro.webp",
+    "card": "cards/giants--s2-spyro.webp",
+    "source": "Card Printouts/2. Giants/S2 Spyro.jpg"
+  },
+  "giants|s2 stealth elf": {
+    "name": "S2 Stealth Elf",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-stealth-elf.webp",
+    "card": "cards/giants--s2-stealth-elf.webp",
+    "source": "Card Printouts/2. Giants/S2 Stealth Elf.jpg"
+  },
+  "giants|s2 stump smash": {
+    "name": "S2 Stump Smash",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-stump-smash.webp",
+    "card": "cards/giants--s2-stump-smash.webp",
+    "source": "Card Printouts/2. Giants/S2 Stump Smash.jpg"
+  },
+  "giants|s2 terrafin": {
+    "name": "S2 Terrafin",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-terrafin.webp",
+    "card": "cards/giants--s2-terrafin.webp",
+    "source": "Card Printouts/2. Giants/S2 Terrafin.jpg"
+  },
+  "giants|s2 trigger happy": {
+    "name": "S2 Trigger Happy",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-trigger-happy.webp",
+    "card": "cards/giants--s2-trigger-happy.webp",
+    "source": "Card Printouts/2. Giants/S2 Trigger Happy.jpg"
+  },
+  "giants|s2 whirlwind": {
+    "name": "S2 Whirlwind",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-whirlwind.webp",
+    "card": "cards/giants--s2-whirlwind.webp",
+    "source": "Card Printouts/2. Giants/S2 Whirlwind.jpg"
+  },
+  "giants|s2 wrecking ball": {
+    "name": "S2 Wrecking Ball",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-wrecking-ball.webp",
+    "card": "cards/giants--s2-wrecking-ball.webp",
+    "source": "Card Printouts/2. Giants/S2 Wrecking Ball.jpg"
+  },
+  "giants|s2 zap": {
+    "name": "S2 Zap",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-zap.webp",
+    "card": "cards/giants--s2-zap.webp",
+    "source": "Card Printouts/2. Giants/S2 Zap.jpg"
+  },
+  "giants|s2 zook": {
+    "name": "S2 Zook",
+    "game": "giants",
+    "portrait": "portraits/giants--s2-zook.webp",
+    "card": "cards/giants--s2-zook.webp",
+    "source": "Card Printouts/2. Giants/S2 Zook.jpg"
+  },
+  "giants|scarlet ninjini": {
+    "name": "Scarlet Ninjini",
+    "game": "giants",
+    "portrait": "portraits/giants--scarlet-ninjini.webp",
+    "card": "cards/giants--scarlet-ninjini.webp",
+    "source": "Card Printouts/2. Giants/Scarlet Ninjini.jpg"
+  },
+  "giants|scorpion striker": {
+    "name": "Scorpion Striker",
+    "game": "giants",
+    "portrait": "portraits/giants--scorpion-striker.webp",
+    "card": "cards/giants--scorpion-striker.webp",
+    "source": "Card Printouts/2. Giants/Scorpion Striker.jpg"
+  },
+  "giants|shroomboom": {
+    "name": "Shroomboom",
+    "game": "giants",
+    "portrait": "portraits/giants--shroomboom.webp",
+    "card": "cards/giants--shroomboom.webp",
+    "source": "Card Printouts/2. Giants/Shroomboom.jpg"
+  },
+  "giants|sprocket": {
+    "name": "Sprocket",
+    "game": "giants",
+    "portrait": "portraits/giants--sprocket.webp",
+    "card": "cards/giants--sprocket.webp",
+    "source": "Card Printouts/2. Giants/Sprocket.jpg"
+  },
+  "giants|swarm": {
+    "name": "Swarm",
+    "game": "giants",
+    "portrait": "portraits/giants--swarm.webp",
+    "card": "cards/giants--swarm.webp",
+    "source": "Card Printouts/2. Giants/Swarm.jpg"
+  },
+  "giants|thumpback": {
+    "name": "Thumpback",
+    "game": "giants",
+    "portrait": "portraits/giants--thumpback.webp",
+    "card": "cards/giants--thumpback.webp",
+    "source": "Card Printouts/2. Giants/Thumpback.jpg"
+  },
+  "giants|thumpling": {
+    "name": "Thumpling",
+    "game": "giants",
+    "portrait": "portraits/giants--thumpling.webp",
+    "card": "cards/giants--thumpling.webp",
+    "source": "Card Printouts/2. Giants/Thumpling.jpg"
+  },
+  "giants|tree rex": {
+    "name": "Tree Rex",
+    "game": "giants",
+    "portrait": "portraits/giants--tree-rex.webp",
+    "card": "cards/giants--tree-rex.webp",
+    "source": "Card Printouts/2. Giants/Tree Rex.jpg"
+  },
+  "swap force|anchors away gill grunt": {
+    "name": "Anchors Away Gill Grunt",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--anchors-away-gill-grunt.webp",
+    "card": "cards/swap-force--anchors-away-gill-grunt.webp",
+    "source": "Card Printouts/3. Swap Force/Anchors Away Gill Grunt.jpg"
+  },
+  "swap force|arkeyan crossbow": {
+    "name": "Arkeyan Crossbow",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--arkeyan-crossbow.webp",
+    "card": "cards/swap-force--arkeyan-crossbow.webp",
+    "source": "Card Printouts/3. Swap Force/Arkeyan Crossbow.jpg"
+  },
+  "swap force|battle hammer": {
+    "name": "Battle Hammer",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--battle-hammer.webp",
+    "card": "cards/swap-force--battle-hammer.webp",
+    "source": "Card Printouts/3. Swap Force/Battle Hammer.jpg"
+  },
+  "swap force|big bang trigger happy": {
+    "name": "Big Bang Trigger Happy",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--big-bang-trigger-happy.webp",
+    "card": "cards/swap-force--big-bang-trigger-happy.webp",
+    "source": "Card Printouts/3. Swap Force/Big Bang Trigger Happy.jpg"
+  },
+  "swap force|blade bottom": {
+    "name": "Blade Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--blade-bottom.webp",
+    "card": "cards/swap-force--blade-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Blade Bottom.jpg"
+  },
+  "swap force|blast top": {
+    "name": "Blast Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--blast-top.webp",
+    "card": "cards/swap-force--blast-top.webp",
+    "source": "Card Printouts/3. Swap Force/Blast Top.jpg"
+  },
+  "swap force|blizzard chill": {
+    "name": "Blizzard Chill",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--blizzard-chill.webp",
+    "card": "cards/swap-force--blizzard-chill.webp",
+    "source": "Card Printouts/3. Swap Force/Blizzard Chill.jpg"
+  },
+  "swap force|bomb bottom": {
+    "name": "Bomb Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--bomb-bottom.webp",
+    "card": "cards/swap-force--bomb-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Bomb Bottom.jpg"
+  },
+  "swap force|boom top": {
+    "name": "Boom Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--boom-top.webp",
+    "card": "cards/swap-force--boom-top.webp",
+    "source": "Card Printouts/3. Swap Force/Boom Top.jpg"
+  },
+  "swap force|buckler bottom": {
+    "name": "Buckler Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--buckler-bottom.webp",
+    "card": "cards/swap-force--buckler-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Buckler Bottom.jpg"
+  },
+  "swap force|bumble blast": {
+    "name": "Bumble Blast",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--bumble-blast.webp",
+    "card": "cards/swap-force--bumble-blast.webp",
+    "source": "Card Printouts/3. Swap Force/Bumble Blast.jpg"
+  },
+  "swap force|charge bottom": {
+    "name": "Charge Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--charge-bottom.webp",
+    "card": "cards/swap-force--charge-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Charge Bottom.jpg"
+  },
+  "swap force|countdown": {
+    "name": "Countdown",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--countdown.webp",
+    "card": "cards/swap-force--countdown.webp",
+    "source": "Card Printouts/3. Swap Force/Countdown.jpg"
+  },
+  "swap force|dark blast top": {
+    "name": "Dark Blast Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-blast-top.webp",
+    "card": "cards/swap-force--dark-blast-top.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Blast Top.jpg"
+  },
+  "swap force|dark buckler bottom": {
+    "name": "Dark Buckler Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-buckler-bottom.webp",
+    "card": "cards/swap-force--dark-buckler-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Buckler Bottom.jpg"
+  },
+  "swap force|dark ninja stealth elf": {
+    "name": "Dark Ninja Stealth Elf",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-ninja-stealth-elf.webp",
+    "card": "cards/swap-force--dark-ninja-stealth-elf.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Ninja Stealth Elf.jpg"
+  },
+  "swap force|dark slobber tooth": {
+    "name": "Dark Slobber Tooth",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-slobber-tooth.webp",
+    "card": "cards/swap-force--dark-slobber-tooth.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Slobber Tooth.jpg"
+  },
+  "swap force|dark wash top": {
+    "name": "Dark Wash Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-wash-top.webp",
+    "card": "cards/swap-force--dark-wash-top.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Wash Top.jpg"
+  },
+  "swap force|dark zone bottom": {
+    "name": "Dark Zone Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dark-zone-bottom.webp",
+    "card": "cards/swap-force--dark-zone-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Dark Zone Bottom.jpg"
+  },
+  "swap force|doom top": {
+    "name": "Doom Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--doom-top.webp",
+    "card": "cards/swap-force--doom-top.webp",
+    "source": "Card Printouts/3. Swap Force/Doom Top.jpg"
+  },
+  "swap force|drilla bottom": {
+    "name": "Drilla Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--drilla-bottom.webp",
+    "card": "cards/swap-force--drilla-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Drilla Bottom.jpg"
+  },
+  "swap force|dune bug": {
+    "name": "Dune Bug",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--dune-bug.webp",
+    "card": "cards/swap-force--dune-bug.webp",
+    "source": "Card Printouts/3. Swap Force/Dune Bug.jpg"
+  },
+  "swap force|enchanted hoot top": {
+    "name": "Enchanted Hoot Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--enchanted-hoot-top.webp",
+    "card": "cards/swap-force--enchanted-hoot-top.webp",
+    "source": "Card Printouts/3. Swap Force/Enchanted Hoot Top.jpg"
+  },
+  "swap force|enchanted loop bottom": {
+    "name": "Enchanted Loop Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--enchanted-loop-bottom.webp",
+    "card": "cards/swap-force--enchanted-loop-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Enchanted Loop Bottom.jpg"
+  },
+  "swap force|fiery forge": {
+    "name": "Fiery Forge",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--fiery-forge.webp",
+    "card": "cards/swap-force--fiery-forge.webp",
+    "source": "Card Printouts/3. Swap Force/Fiery Forge.jpg"
+  },
+  "swap force|fire bone hot dog": {
+    "name": "Fire Bone Hot Dog",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--fire-bone-hot-dog.webp",
+    "card": "cards/swap-force--fire-bone-hot-dog.webp",
+    "source": "Card Printouts/3. Swap Force/Fire Bone Hot Dog.jpg"
+  },
+  "swap force|fire top": {
+    "name": "Fire Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--fire-top.webp",
+    "card": "cards/swap-force--fire-top.webp",
+    "source": "Card Printouts/3. Swap Force/Fire Top.jpg"
+  },
+  "swap force|free top": {
+    "name": "Free Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--free-top.webp",
+    "card": "cards/swap-force--free-top.webp",
+    "source": "Card Printouts/3. Swap Force/Free Top.jpg"
+  },
+  "swap force|freeze top": {
+    "name": "Freeze Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--freeze-top.webp",
+    "card": "cards/swap-force--freeze-top.webp",
+    "source": "Card Printouts/3. Swap Force/Freeze Top.jpg"
+  },
+  "swap force|fryno": {
+    "name": "Fryno",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--fryno.webp",
+    "card": "cards/swap-force--fryno.webp",
+    "source": "Card Printouts/3. Swap Force/Fryno.jpg"
+  },
+  "swap force|grilla top": {
+    "name": "Grilla Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--grilla-top.webp",
+    "card": "cards/swap-force--grilla-top.webp",
+    "source": "Card Printouts/3. Swap Force/Grilla Top.jpg"
+  },
+  "swap force|grim creeper": {
+    "name": "Grim Creeper",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--grim-creeper.webp",
+    "card": "cards/swap-force--grim-creeper.webp",
+    "source": "Card Printouts/3. Swap Force/Grim Creeper.jpg"
+  },
+  "swap force|groove machine": {
+    "name": "Groove Machine",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--groove-machine.webp",
+    "card": "cards/swap-force--groove-machine.webp",
+    "source": "Card Printouts/3. Swap Force/Groove Machine.jpg"
+  },
+  "swap force|heavy duty sprocket": {
+    "name": "Heavy Duty Sprocket",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--heavy-duty-sprocket.webp",
+    "card": "cards/swap-force--heavy-duty-sprocket.webp",
+    "source": "Card Printouts/3. Swap Force/Heavy Duty Sprocket.jpg"
+  },
+  "swap force|hoot top": {
+    "name": "Hoot Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--hoot-top.webp",
+    "card": "cards/swap-force--hoot-top.webp",
+    "source": "Card Printouts/3. Swap Force/Hoot Top.jpg"
+  },
+  "swap force|horn blast whirlwind": {
+    "name": "Horn Blast Whirlwind",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--horn-blast-whirlwind.webp",
+    "card": "cards/swap-force--horn-blast-whirlwind.webp",
+    "source": "Card Printouts/3. Swap Force/Horn Blast Whirlwind.jpg"
+  },
+  "swap force|hyper beam prism break": {
+    "name": "Hyper Beam Prism Break",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--hyper-beam-prism-break.webp",
+    "card": "cards/swap-force--hyper-beam-prism-break.webp",
+    "source": "Card Printouts/3. Swap Force/Hyper Beam Prism Break.jpg"
+  },
+  "swap force|jade fire top": {
+    "name": "Jade Fire Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--jade-fire-top.webp",
+    "card": "cards/swap-force--jade-fire-top.webp",
+    "source": "Card Printouts/3. Swap Force/Jade Fire Top.jpg"
+  },
+  "swap force|jade kraken bottom": {
+    "name": "Jade Kraken Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--jade-kraken-bottom.webp",
+    "card": "cards/swap-force--jade-kraken-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Jade Kraken Bottom.jpg"
+  },
+  "swap force|jet bottom": {
+    "name": "Jet Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--jet-bottom.webp",
+    "card": "cards/swap-force--jet-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Jet Bottom.jpg"
+  },
+  "swap force|jolly bumble blast": {
+    "name": "Jolly Bumble Blast",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--jolly-bumble-blast.webp",
+    "card": "cards/swap-force--jolly-bumble-blast.webp",
+    "source": "Card Printouts/3. Swap Force/Jolly Bumble Blast.jpg"
+  },
+  "swap force|kickoff countdown": {
+    "name": "Kickoff Countdown",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--kickoff-countdown.webp",
+    "card": "cards/swap-force--kickoff-countdown.webp",
+    "source": "Card Printouts/3. Swap Force/Kickoff Countdown.jpg"
+  },
+  "swap force|knockout terrafin": {
+    "name": "Knockout Terrafin",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--knockout-terrafin.webp",
+    "card": "cards/swap-force--knockout-terrafin.webp",
+    "source": "Card Printouts/3. Swap Force/Knockout Terrafin.jpg"
+  },
+  "swap force|kraken bottom": {
+    "name": "Kraken Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--kraken-bottom.webp",
+    "card": "cards/swap-force--kraken-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Kraken Bottom.jpg"
+  },
+  "swap force|lava barf eruptor": {
+    "name": "Lava Barf Eruptor",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lava-barf-eruptor.webp",
+    "card": "cards/swap-force--lava-barf-eruptor.webp",
+    "source": "Card Printouts/3. Swap Force/Lava Barf Eruptor.jpg"
+  },
+  "swap force|legendary free top": {
+    "name": "Legendary Free Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--legendary-free-top.webp",
+    "card": "cards/swap-force--legendary-free-top.webp",
+    "source": "Card Printouts/3. Swap Force/Legendary Free Top.jpg"
+  },
+  "swap force|legendary night top": {
+    "name": "Legendary Night Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--legendary-night-top.webp",
+    "card": "cards/swap-force--legendary-night-top.webp",
+    "source": "Card Printouts/3. Swap Force/Legendary Night Top.jpg"
+  },
+  "swap force|legendary ranger bottom": {
+    "name": "Legendary Ranger Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--legendary-ranger-bottom.webp",
+    "card": "cards/swap-force--legendary-ranger-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Legendary Ranger Bottom.jpg"
+  },
+  "swap force|legendary shift bottom": {
+    "name": "Legendary Shift Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--legendary-shift-bottom.webp",
+    "card": "cards/swap-force--legendary-shift-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Legendary Shift Bottom.jpg"
+  },
+  "swap force|legendary zoo lou": {
+    "name": "Legendary Zoo Lou",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--legendary-zoo-lou.webp",
+    "card": "cards/swap-force--legendary-zoo-lou.webp",
+    "source": "Card Printouts/3. Swap Force/Legendary Zoo Lou.jpg"
+  },
+  "swap force|lightcore bumble blast": {
+    "name": "Lightcore Bumble Blast",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-bumble-blast.webp",
+    "card": "cards/swap-force--lightcore-bumble-blast.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Bumble Blast.jpg"
+  },
+  "swap force|lightcore countdown": {
+    "name": "Lightcore Countdown",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-countdown.webp",
+    "card": "cards/swap-force--lightcore-countdown.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Countdown.jpg"
+  },
+  "swap force|lightcore enchanted star strike": {
+    "name": "Lightcore Enchanted Star Strike",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-enchanted-star-strike.webp",
+    "card": "cards/swap-force--lightcore-enchanted-star-strike.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Enchanted Star Strike.jpg"
+  },
+  "swap force|lightcore flashwing": {
+    "name": "Lightcore Flashwing",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-flashwing.webp",
+    "card": "cards/swap-force--lightcore-flashwing.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Flashwing.jpg"
+  },
+  "swap force|lightcore grim creeper": {
+    "name": "Lightcore Grim Creeper",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-grim-creeper.webp",
+    "card": "cards/swap-force--lightcore-grim-creeper.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Grim Creeper.jpg"
+  },
+  "swap force|lightcore legendary grim creeper": {
+    "name": "Lightcore Legendary Grim Creeper",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-legendary-grim-creeper.webp",
+    "card": "cards/swap-force--lightcore-legendary-grim-creeper.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Legendary Grim Creeper.jpg"
+  },
+  "swap force|lightcore smolderdash": {
+    "name": "Lightcore Smolderdash",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-smolderdash.webp",
+    "card": "cards/swap-force--lightcore-smolderdash.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Smolderdash.jpg"
+  },
+  "swap force|lightcore star strike": {
+    "name": "Lightcore Star Strike",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-star-strike.webp",
+    "card": "cards/swap-force--lightcore-star-strike.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Star Strike.jpg"
+  },
+  "swap force|lightcore warnado": {
+    "name": "Lightcore Warnado",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-warnado.webp",
+    "card": "cards/swap-force--lightcore-warnado.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Warnado.jpg"
+  },
+  "swap force|lightcore wham shell": {
+    "name": "Lightcore Wham-Shell",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--lightcore-wham-shell.webp",
+    "card": "cards/swap-force--lightcore-wham-shell.webp",
+    "source": "Card Printouts/3. Swap Force/Lightcore Wham-Shell.jpg"
+  },
+  "swap force|loop bottom": {
+    "name": "Loop Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--loop-bottom.webp",
+    "card": "cards/swap-force--loop-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Loop Bottom.jpg"
+  },
+  "swap force|magna top": {
+    "name": "Magna Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--magna-top.webp",
+    "card": "cards/swap-force--magna-top.webp",
+    "source": "Card Printouts/3. Swap Force/Magna Top.jpg"
+  },
+  "swap force|mega ram dark spyro": {
+    "name": "Mega Ram Dark Spyro",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--mega-ram-dark-spyro.webp",
+    "card": "cards/swap-force--mega-ram-dark-spyro.webp",
+    "source": "Card Printouts/3. Swap Force/Mega Ram Dark Spyro.jpg"
+  },
+  "swap force|mega ram spyro": {
+    "name": "Mega Ram Spyro",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--mega-ram-spyro.webp",
+    "card": "cards/swap-force--mega-ram-spyro.webp",
+    "source": "Card Printouts/3. Swap Force/Mega Ram Spyro.jpg"
+  },
+  "swap force|night top": {
+    "name": "Night Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--night-top.webp",
+    "card": "cards/swap-force--night-top.webp",
+    "source": "Card Printouts/3. Swap Force/Night Top.jpg"
+  },
+  "swap force|ninja stealth elf": {
+    "name": "Ninja Stealth Elf",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--ninja-stealth-elf.webp",
+    "card": "cards/swap-force--ninja-stealth-elf.webp",
+    "source": "Card Printouts/3. Swap Force/Ninja Stealth Elf.jpg"
+  },
+  "swap force|nitro blade bottom": {
+    "name": "Nitro Blade Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--nitro-blade-bottom.webp",
+    "card": "cards/swap-force--nitro-blade-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Nitro Blade Bottom.jpg"
+  },
+  "swap force|nitro charge bottom": {
+    "name": "Nitro Charge Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--nitro-charge-bottom.webp",
+    "card": "cards/swap-force--nitro-charge-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Nitro Charge Bottom.jpg"
+  },
+  "swap force|nitro freeze top": {
+    "name": "Nitro Freeze Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--nitro-freeze-top.webp",
+    "card": "cards/swap-force--nitro-freeze-top.webp",
+    "source": "Card Printouts/3. Swap Force/Nitro Freeze Top.jpg"
+  },
+  "swap force|nitro magna top": {
+    "name": "Nitro Magna Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--nitro-magna-top.webp",
+    "card": "cards/swap-force--nitro-magna-top.webp",
+    "source": "Card Printouts/3. Swap Force/Nitro Magna Top.jpg"
+  },
+  "swap force|phantom cynder": {
+    "name": "Phantom Cynder",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--phantom-cynder.webp",
+    "card": "cards/swap-force--phantom-cynder.webp",
+    "source": "Card Printouts/3. Swap Force/Phantom Cynder.jpg"
+  },
+  "swap force|platinum sheep": {
+    "name": "Platinum Sheep",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--platinum-sheep.webp",
+    "card": "cards/swap-force--platinum-sheep.webp",
+    "source": "Card Printouts/3. Swap Force/Platinum Sheep.jpg"
+  },
+  "swap force|pop thorn": {
+    "name": "Pop Thorn",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--pop-thorn.webp",
+    "card": "cards/swap-force--pop-thorn.webp",
+    "source": "Card Printouts/3. Swap Force/Pop Thorn.jpg"
+  },
+  "swap force|punk shock": {
+    "name": "Punk Shock",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--punk-shock.webp",
+    "card": "cards/swap-force--punk-shock.webp",
+    "source": "Card Printouts/3. Swap Force/Punk Shock.jpg"
+  },
+  "swap force|quick draw rattle top": {
+    "name": "Quick Draw Rattle Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--quick-draw-rattle-top.webp",
+    "card": "cards/swap-force--quick-draw-rattle-top.webp",
+    "source": "Card Printouts/3. Swap Force/Quick Draw Rattle Top.jpg"
+  },
+  "swap force|quick draw shake bottom": {
+    "name": "Quick Draw Shake Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--quick-draw-shake-bottom.webp",
+    "card": "cards/swap-force--quick-draw-shake-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Quick Draw Shake Bottom.jpg"
+  },
+  "swap force|ranger bottom": {
+    "name": "Ranger Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--ranger-bottom.webp",
+    "card": "cards/swap-force--ranger-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Ranger Bottom.jpg"
+  },
+  "swap force|rattle top": {
+    "name": "Rattle Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--rattle-top.webp",
+    "card": "cards/swap-force--rattle-top.webp",
+    "source": "Card Printouts/3. Swap Force/Rattle Top.jpg"
+  },
+  "swap force|rip tide": {
+    "name": "Rip Tide",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--rip-tide.webp",
+    "card": "cards/swap-force--rip-tide.webp",
+    "source": "Card Printouts/3. Swap Force/Rip Tide.jpg"
+  },
+  "swap force|rise bottom": {
+    "name": "Rise Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--rise-bottom.webp",
+    "card": "cards/swap-force--rise-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Rise Bottom.jpg"
+  },
+  "swap force|roller brawl": {
+    "name": "Roller Brawl",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--roller-brawl.webp",
+    "card": "cards/swap-force--roller-brawl.webp",
+    "source": "Card Printouts/3. Swap Force/Roller Brawl.jpg"
+  },
+  "swap force|rouser bottom": {
+    "name": "Rouser Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--rouser-bottom.webp",
+    "card": "cards/swap-force--rouser-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Rouser Bottom.jpg"
+  },
+  "swap force|rubble top": {
+    "name": "Rubble Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--rubble-top.webp",
+    "card": "cards/swap-force--rubble-top.webp",
+    "source": "Card Printouts/3. Swap Force/Rubble Top.jpg"
+  },
+  "swap force|scorp": {
+    "name": "Scorp",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--scorp.webp",
+    "card": "cards/swap-force--scorp.webp",
+    "source": "Card Printouts/3. Swap Force/Scorp.jpg"
+  },
+  "swap force|scratch": {
+    "name": "Scratch",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--scratch.webp",
+    "card": "cards/swap-force--scratch.webp",
+    "source": "Card Printouts/3. Swap Force/Scratch.jpg"
+  },
+  "swap force|shadow bottom": {
+    "name": "Shadow Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--shadow-bottom.webp",
+    "card": "cards/swap-force--shadow-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Shadow Bottom.jpg"
+  },
+  "swap force|shake bottom": {
+    "name": "Shake Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--shake-bottom.webp",
+    "card": "cards/swap-force--shake-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Shake Bottom.jpg"
+  },
+  "swap force|sheep wreck island": {
+    "name": "Sheep Wreck Island",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--sheep-wreck-island.webp",
+    "card": "cards/swap-force--sheep-wreck-island.webp",
+    "source": "Card Printouts/3. Swap Force/Sheep Wreck Island.jpg"
+  },
+  "swap force|shift bottom": {
+    "name": "Shift Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--shift-bottom.webp",
+    "card": "cards/swap-force--shift-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Shift Bottom.jpg"
+  },
+  "swap force|sky diamond": {
+    "name": "Sky Diamond",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--sky-diamond.webp",
+    "card": "cards/swap-force--sky-diamond.webp",
+    "source": "Card Printouts/3. Swap Force/Sky Diamond.jpg"
+  },
+  "swap force|slobber tooth": {
+    "name": "Slobber Tooth",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--slobber-tooth.webp",
+    "card": "cards/swap-force--slobber-tooth.webp",
+    "source": "Card Printouts/3. Swap Force/Slobber Tooth.jpg"
+  },
+  "swap force|smolderdash": {
+    "name": "Smolderdash",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--smolderdash.webp",
+    "card": "cards/swap-force--smolderdash.webp",
+    "source": "Card Printouts/3. Swap Force/Smolderdash.jpg"
+  },
+  "swap force|springtime trigger happy": {
+    "name": "Springtime Trigger Happy",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--springtime-trigger-happy.webp",
+    "card": "cards/swap-force--springtime-trigger-happy.webp",
+    "source": "Card Printouts/3. Swap Force/Springtime Trigger Happy.jpg"
+  },
+  "swap force|spy top": {
+    "name": "Spy Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--spy-top.webp",
+    "card": "cards/swap-force--spy-top.webp",
+    "source": "Card Printouts/3. Swap Force/Spy Top.jpg"
+  },
+  "swap force|star strike": {
+    "name": "Star Strike",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--star-strike.webp",
+    "card": "cards/swap-force--star-strike.webp",
+    "source": "Card Printouts/3. Swap Force/Star Strike.jpg"
+  },
+  "swap force|stink top": {
+    "name": "Stink Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--stink-top.webp",
+    "card": "cards/swap-force--stink-top.webp",
+    "source": "Card Printouts/3. Swap Force/Stink Top.jpg"
+  },
+  "swap force|stone bottom": {
+    "name": "Stone Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--stone-bottom.webp",
+    "card": "cards/swap-force--stone-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Stone Bottom.jpg"
+  },
+  "swap force|super gulp pop fizz": {
+    "name": "Super Gulp Pop Fizz",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--super-gulp-pop-fizz.webp",
+    "card": "cards/swap-force--super-gulp-pop-fizz.webp",
+    "source": "Card Printouts/3. Swap Force/Super Gulp Pop Fizz.jpg"
+  },
+  "swap force|swap force expansion pack 1": {
+    "name": "Swap Force expansion pack 1",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--swap-force-expansion-pack-1.webp",
+    "card": "cards/swap-force--swap-force-expansion-pack-1.webp",
+    "source": "Card Printouts/3. Swap Force/Swap Force expansion pack 1.jpg"
+  },
+  "swap force|swap force expansion pack 2": {
+    "name": "Swap Force expansion pack 2",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--swap-force-expansion-pack-2.webp",
+    "card": "cards/swap-force--swap-force-expansion-pack-2.webp",
+    "source": "Card Printouts/3. Swap Force/Swap Force expansion pack 2.jpg"
+  },
+  "swap force|thorn horn camo": {
+    "name": "Thorn Horn Camo",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--thorn-horn-camo.webp",
+    "card": "cards/swap-force--thorn-horn-camo.webp",
+    "source": "Card Printouts/3. Swap Force/Thorn Horn Camo.jpg"
+  },
+  "swap force|tower of time": {
+    "name": "Tower Of Time",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--tower-of-time.webp",
+    "card": "cards/swap-force--tower-of-time.webp",
+    "source": "Card Printouts/3. Swap Force/Tower Of Time.jpg"
+  },
+  "swap force|trap top": {
+    "name": "Trap Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--trap-top.webp",
+    "card": "cards/swap-force--trap-top.webp",
+    "source": "Card Printouts/3. Swap Force/Trap Top.jpg"
+  },
+  "swap force|turbo jet vac": {
+    "name": "Turbo Jet-Vac",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--turbo-jet-vac.webp",
+    "card": "cards/swap-force--turbo-jet-vac.webp",
+    "source": "Card Printouts/3. Swap Force/Turbo Jet-Vac.jpg"
+  },
+  "swap force|twin blade chop chop": {
+    "name": "Twin Blade Chop Chop",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--twin-blade-chop-chop.webp",
+    "card": "cards/swap-force--twin-blade-chop-chop.webp",
+    "source": "Card Printouts/3. Swap Force/Twin Blade Chop Chop.jpg"
+  },
+  "swap force|ufo hat": {
+    "name": "Ufo Hat",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--ufo-hat.webp",
+    "card": "cards/swap-force--ufo-hat.webp",
+    "source": "Card Printouts/3. Swap Force/Ufo Hat.jpg"
+  },
+  "swap force|volcanic eruptor": {
+    "name": "Volcanic Eruptor",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--volcanic-eruptor.webp",
+    "card": "cards/swap-force--volcanic-eruptor.webp",
+    "source": "Card Printouts/3. Swap Force/Volcanic Eruptor.jpg"
+  },
+  "swap force|vvind up": {
+    "name": "VVind Up",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--vvind-up.webp",
+    "card": "cards/swap-force--vvind-up.webp",
+    "source": "Card Printouts/3. Swap Force/VVind Up.jpg"
+  },
+  "swap force|wash top": {
+    "name": "Wash Top",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--wash-top.webp",
+    "card": "cards/swap-force--wash-top.webp",
+    "source": "Card Printouts/3. Swap Force/Wash Top.jpg"
+  },
+  "swap force|wind up": {
+    "name": "Wind-Up",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--wind-up.webp",
+    "card": "cards/swap-force--wind-up.webp",
+    "source": "Card Printouts/3. Swap Force/Wind-Up.jpg"
+  },
+  "swap force|zone bottom": {
+    "name": "Zone Bottom",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--zone-bottom.webp",
+    "card": "cards/swap-force--zone-bottom.webp",
+    "source": "Card Printouts/3. Swap Force/Zone Bottom.jpg"
+  },
+  "swap force|zoo lou": {
+    "name": "Zoo Lou",
+    "game": "swap force",
+    "portrait": "portraits/swap-force--zoo-lou.webp",
+    "card": "cards/swap-force--zoo-lou.webp",
+    "source": "Card Printouts/3. Swap Force/Zoo Lou.jpg"
+  },
+  "trap team|bat spin": {
+    "name": "Bat Spin",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--bat-spin.webp",
+    "card": "cards/trap-team--bat-spin.webp",
+    "source": "Card Printouts/4. Trap Team/Bat Spin.jpg"
+  },
+  "trap team|blackout": {
+    "name": "Blackout",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--blackout.webp",
+    "card": "cards/trap-team--blackout.webp",
+    "source": "Card Printouts/4. Trap Team/Blackout.jpg"
+  },
+  "trap team|blades": {
+    "name": "Blades",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--blades.webp",
+    "card": "cards/trap-team--blades.webp",
+    "source": "Card Printouts/4. Trap Team/Blades.jpg"
+  },
+  "trap team|blastermind": {
+    "name": "Blastermind",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--blastermind.webp",
+    "card": "cards/trap-team--blastermind.webp",
+    "source": "Card Printouts/4. Trap Team/Blastermind.jpg"
+  },
+  "trap team|bop": {
+    "name": "Bop",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--bop.webp",
+    "card": "cards/trap-team--bop.webp",
+    "source": "Card Printouts/4. Trap Team/Bop.jpg"
+  },
+  "trap team|breeze": {
+    "name": "Breeze",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--breeze.webp",
+    "card": "cards/trap-team--breeze.webp",
+    "source": "Card Printouts/4. Trap Team/Breeze.jpg"
+  },
+  "trap team|bushwhack": {
+    "name": "Bushwhack",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--bushwhack.webp",
+    "card": "cards/trap-team--bushwhack.webp",
+    "source": "Card Printouts/4. Trap Team/Bushwhack.jpg"
+  },
+  "trap team|chopper": {
+    "name": "Chopper",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--chopper.webp",
+    "card": "cards/trap-team--chopper.webp",
+    "source": "Card Printouts/4. Trap Team/Chopper.jpg"
+  },
+  "trap team|cobra cadabra": {
+    "name": "Cobra Cadabra",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--cobra-cadabra.webp",
+    "card": "cards/trap-team--cobra-cadabra.webp",
+    "source": "Card Printouts/4. Trap Team/Cobra Cadabra.jpg"
+  },
+  "trap team|dark food fight": {
+    "name": "Dark Food Fight",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--dark-food-fight.webp",
+    "card": "cards/trap-team--dark-food-fight.webp",
+    "source": "Card Printouts/4. Trap Team/Dark Food Fight.jpg"
+  },
+  "trap team|dark snap shot": {
+    "name": "Dark Snap Shot",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--dark-snap-shot.webp",
+    "card": "cards/trap-team--dark-snap-shot.webp",
+    "source": "Card Printouts/4. Trap Team/Dark Snap Shot.jpg"
+  },
+  "trap team|dark wildfire": {
+    "name": "Dark Wildfire",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--dark-wildfire.webp",
+    "card": "cards/trap-team--dark-wildfire.webp",
+    "source": "Card Printouts/4. Trap Team/Dark Wildfire.jpg"
+  },
+  "trap team|deja vu": {
+    "name": "Deja Vu",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--deja-vu.webp",
+    "card": "cards/trap-team--deja-vu.webp",
+    "source": "Card Printouts/4. Trap Team/Deja Vu.jpg"
+  },
+  "trap team|drobit": {
+    "name": "Drobit",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--drobit.webp",
+    "card": "cards/trap-team--drobit.webp",
+    "source": "Card Printouts/4. Trap Team/Drobit.jpg"
+  },
+  "trap team|echo": {
+    "name": "Echo",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--echo.webp",
+    "card": "cards/trap-team--echo.webp",
+    "source": "Card Printouts/4. Trap Team/Echo.jpg"
+  },
+  "trap team|eggsellent weeruptor": {
+    "name": "Eggsellent Weeruptor",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--eggsellent-weeruptor.webp",
+    "card": "cards/trap-team--eggsellent-weeruptor.webp",
+    "source": "Card Printouts/4. Trap Team/Eggsellent Weeruptor.jpg"
+  },
+  "trap team|enigma": {
+    "name": "Enigma",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--enigma.webp",
+    "card": "cards/trap-team--enigma.webp",
+    "source": "Card Printouts/4. Trap Team/Enigma.jpg"
+  },
+  "trap team|fist bump": {
+    "name": "Fist Bump",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--fist-bump.webp",
+    "card": "cards/trap-team--fist-bump.webp",
+    "source": "Card Printouts/4. Trap Team/Fist Bump.jpg"
+  },
+  "trap team|fizzy frenzy pop fizz": {
+    "name": "Fizzy Frenzy Pop Fizz",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--fizzy-frenzy-pop-fizz.webp",
+    "card": "cards/trap-team--fizzy-frenzy-pop-fizz.webp",
+    "source": "Card Printouts/4. Trap Team/Fizzy Frenzy Pop Fizz.jpg"
+  },
+  "trap team|fling kong": {
+    "name": "Fling Kong",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--fling-kong.webp",
+    "card": "cards/trap-team--fling-kong.webp",
+    "source": "Card Printouts/4. Trap Team/Fling Kong.jpg"
+  },
+  "trap team|flip wreck": {
+    "name": "Flip Wreck",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--flip-wreck.webp",
+    "card": "cards/trap-team--flip-wreck.webp",
+    "source": "Card Printouts/4. Trap Team/Flip Wreck.jpg"
+  },
+  "trap team|food fight": {
+    "name": "Food Fight",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--food-fight.webp",
+    "card": "cards/trap-team--food-fight.webp",
+    "source": "Card Printouts/4. Trap Team/Food Fight.jpg"
+  },
+  "trap team|full blast jet vac": {
+    "name": "Full Blast Jet-Vac",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--full-blast-jet-vac.webp",
+    "card": "cards/trap-team--full-blast-jet-vac.webp",
+    "source": "Card Printouts/4. Trap Team/Full Blast Jet-Vac.jpg"
+  },
+  "trap team|funny bone": {
+    "name": "Funny Bone",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--funny-bone.webp",
+    "card": "cards/trap-team--funny-bone.webp",
+    "source": "Card Printouts/4. Trap Team/Funny Bone.jpg"
+  },
+  "trap team|gearshift": {
+    "name": "Gearshift",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--gearshift.webp",
+    "card": "cards/trap-team--gearshift.webp",
+    "source": "Card Printouts/4. Trap Team/Gearshift.jpg"
+  },
+  "trap team|gnarly barkley": {
+    "name": "Gnarly Barkley",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--gnarly-barkley.webp",
+    "card": "cards/trap-team--gnarly-barkley.webp",
+    "source": "Card Printouts/4. Trap Team/Gnarly Barkley.jpg"
+  },
+  "trap team|gusto": {
+    "name": "Gusto",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--gusto.webp",
+    "card": "cards/trap-team--gusto.webp",
+    "source": "Card Printouts/4. Trap Team/Gusto.jpg"
+  },
+  "trap team|hand of fate": {
+    "name": "Hand of fate",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--hand-of-fate.webp",
+    "card": "cards/trap-team--hand-of-fate.webp",
+    "source": "Card Printouts/4. Trap Team/Hand of fate.jpg"
+  },
+  "trap team|head rush": {
+    "name": "Head Rush",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--head-rush.webp",
+    "card": "cards/trap-team--head-rush.webp",
+    "source": "Card Printouts/4. Trap Team/Head Rush.jpg"
+  },
+  "trap team|high five": {
+    "name": "High Five",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--high-five.webp",
+    "card": "cards/trap-team--high-five.webp",
+    "source": "Card Printouts/4. Trap Team/High Five.jpg"
+  },
+  "trap team|hijinx": {
+    "name": "Hijinx",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--hijinx.webp",
+    "card": "cards/trap-team--hijinx.webp",
+    "source": "Card Printouts/4. Trap Team/Hijinx.jpg"
+  },
+  "trap team|hog wild fryno": {
+    "name": "Hog Wild Fryno",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--hog-wild-fryno.webp",
+    "card": "cards/trap-team--hog-wild-fryno.webp",
+    "source": "Card Printouts/4. Trap Team/Hog Wild Fryno.jpg"
+  },
+  "trap team|jawbreaker": {
+    "name": "Jawbreaker",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--jawbreaker.webp",
+    "card": "cards/trap-team--jawbreaker.webp",
+    "source": "Card Printouts/4. Trap Team/Jawbreaker.jpg"
+  },
+  "trap team|ka boom": {
+    "name": "Ka-Boom",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--ka-boom.webp",
+    "card": "cards/trap-team--ka-boom.webp",
+    "source": "Card Printouts/4. Trap Team/Ka-Boom.jpg"
+  },
+  "trap team|king cobra cadabra": {
+    "name": "King Cobra Cadabra",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--king-cobra-cadabra.webp",
+    "card": "cards/trap-team--king-cobra-cadabra.webp",
+    "source": "Card Printouts/4. Trap Team/King Cobra Cadabra.jpg"
+  },
+  "trap team|knight light": {
+    "name": "Knight Light",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--knight-light.webp",
+    "card": "cards/trap-team--knight-light.webp",
+    "source": "Card Printouts/4. Trap Team/Knight Light.jpg"
+  },
+  "trap team|knight mare": {
+    "name": "Knight Mare",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--knight-mare.webp",
+    "card": "cards/trap-team--knight-mare.webp",
+    "source": "Card Printouts/4. Trap Team/Knight Mare.jpg"
+  },
+  "trap team|krypt king": {
+    "name": "Krypt King",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--krypt-king.webp",
+    "card": "cards/trap-team--krypt-king.webp",
+    "source": "Card Printouts/4. Trap Team/Krypt King.jpg"
+  },
+  "trap team|legendary blades": {
+    "name": "Legendary Blades",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--legendary-blades.webp",
+    "card": "cards/trap-team--legendary-blades.webp",
+    "source": "Card Printouts/4. Trap Team/Legendary Blades.jpg"
+  },
+  "trap team|legendary bushwhack": {
+    "name": "Legendary Bushwhack",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--legendary-bushwhack.webp",
+    "card": "cards/trap-team--legendary-bushwhack.webp",
+    "source": "Card Printouts/4. Trap Team/Legendary Bushwhack.jpg"
+  },
+  "trap team|legendary deja vu": {
+    "name": "Legendary Deja Vu",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--legendary-deja-vu.webp",
+    "card": "cards/trap-team--legendary-deja-vu.webp",
+    "source": "Card Printouts/4. Trap Team/Legendary Deja Vu.jpg"
+  },
+  "trap team|legendary hand of fate": {
+    "name": "Legendary Hand of fate",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--legendary-hand-of-fate.webp",
+    "card": "cards/trap-team--legendary-hand-of-fate.webp",
+    "source": "Card Printouts/4. Trap Team/Legendary Hand of fate.jpg"
+  },
+  "trap team|legendary jawbreaker": {
+    "name": "Legendary Jawbreaker",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--legendary-jawbreaker.webp",
+    "card": "cards/trap-team--legendary-jawbreaker.webp",
+    "source": "Card Printouts/4. Trap Team/Legendary Jawbreaker.jpg"
+  },
+  "trap team|lob star": {
+    "name": "Lob Star",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--lob-star.webp",
+    "card": "cards/trap-team--lob-star.webp",
+    "source": "Card Printouts/4. Trap Team/Lob Star.jpg"
+  },
+  "trap team|love potion pop fizz": {
+    "name": "Love Potion Pop Fizz",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--love-potion-pop-fizz.webp",
+    "card": "cards/trap-team--love-potion-pop-fizz.webp",
+    "source": "Card Printouts/4. Trap Team/Love Potion Pop Fizz.jpg"
+  },
+  "trap team|midnight museum": {
+    "name": "Midnight Museum",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--midnight-museum.webp",
+    "card": "cards/trap-team--midnight-museum.webp",
+    "source": "Card Printouts/4. Trap Team/Midnight Museum.jpg"
+  },
+  "trap team|mirror of mystery": {
+    "name": "Mirror of Mystery",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--mirror-of-mystery.webp",
+    "card": "cards/trap-team--mirror-of-mystery.webp",
+    "source": "Card Printouts/4. Trap Team/Mirror of Mystery.jpg"
+  },
+  "trap team|nightmare express": {
+    "name": "Nightmare Express",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--nightmare-express.webp",
+    "card": "cards/trap-team--nightmare-express.webp",
+    "source": "Card Printouts/4. Trap Team/Nightmare Express.jpg"
+  },
+  "trap team|nitro head rush": {
+    "name": "Nitro Head Rush",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--nitro-head-rush.webp",
+    "card": "cards/trap-team--nitro-head-rush.webp",
+    "source": "Card Printouts/4. Trap Team/Nitro Head Rush.jpg"
+  },
+  "trap team|nitro krypt king": {
+    "name": "Nitro Krypt King",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--nitro-krypt-king.webp",
+    "card": "cards/trap-team--nitro-krypt-king.webp",
+    "source": "Card Printouts/4. Trap Team/Nitro Krypt King.jpg"
+  },
+  "trap team|pet vac": {
+    "name": "Pet-Vac",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--pet-vac.webp",
+    "card": "cards/trap-team--pet-vac.webp",
+    "source": "Card Printouts/4. Trap Team/Pet-Vac.jpg"
+  },
+  "trap team|piggy bank": {
+    "name": "Piggy Bank",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--piggy-bank.webp",
+    "card": "cards/trap-team--piggy-bank.webp",
+    "source": "Card Printouts/4. Trap Team/Piggy Bank.jpg"
+  },
+  "trap team|power punch pet vac": {
+    "name": "Power Punch Pet-Vac",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--power-punch-pet-vac.webp",
+    "card": "cards/trap-team--power-punch-pet-vac.webp",
+    "source": "Card Printouts/4. Trap Team/Power Punch Pet-Vac.jpg"
+  },
+  "trap team|rocket ram": {
+    "name": "Rocket Ram",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--rocket-ram.webp",
+    "card": "cards/trap-team--rocket-ram.webp",
+    "source": "Card Printouts/4. Trap Team/Rocket Ram.jpg"
+  },
+  "trap team|rocky roll": {
+    "name": "Rocky Roll",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--rocky-roll.webp",
+    "card": "cards/trap-team--rocky-roll.webp",
+    "source": "Card Printouts/4. Trap Team/Rocky Roll.jpg"
+  },
+  "trap team|s2 fryno": {
+    "name": "S2 Fryno",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--s2-fryno.webp",
+    "card": "cards/trap-team--s2-fryno.webp",
+    "source": "Card Printouts/4. Trap Team/S2 Fryno.jpg"
+  },
+  "trap team|s3 pop fizz": {
+    "name": "S3 Pop Fizz",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--s3-pop-fizz.webp",
+    "card": "cards/trap-team--s3-pop-fizz.webp",
+    "source": "Card Printouts/4. Trap Team/S3 Pop Fizz.jpg"
+  },
+  "trap team|short cut": {
+    "name": "Short Cut",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--short-cut.webp",
+    "card": "cards/trap-team--short-cut.webp",
+    "source": "Card Printouts/4. Trap Team/Short Cut.jpg"
+  },
+  "trap team|small fry": {
+    "name": "Small Fry",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--small-fry.webp",
+    "card": "cards/trap-team--small-fry.webp",
+    "source": "Card Printouts/4. Trap Team/Small Fry.jpg"
+  },
+  "trap team|snap shot": {
+    "name": "Snap Shot",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--snap-shot.webp",
+    "card": "cards/trap-team--snap-shot.webp",
+    "source": "Card Printouts/4. Trap Team/Snap Shot.jpg"
+  },
+  "trap team|spotlight": {
+    "name": "Spotlight",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--spotlight.webp",
+    "card": "cards/trap-team--spotlight.webp",
+    "source": "Card Printouts/4. Trap Team/Spotlight.jpg"
+  },
+  "trap team|spry": {
+    "name": "Spry",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--spry.webp",
+    "card": "cards/trap-team--spry.webp",
+    "source": "Card Printouts/4. Trap Team/Spry.jpg"
+  },
+  "trap team|sunscraper spire": {
+    "name": "Sunscraper Spire",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--sunscraper-spire.webp",
+    "card": "cards/trap-team--sunscraper-spire.webp",
+    "source": "Card Printouts/4. Trap Team/Sunscraper Spire.jpg"
+  },
+  "trap team|sure shot shroomboom": {
+    "name": "Sure Shot Shroomboom",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--sure-shot-shroomboom.webp",
+    "card": "cards/trap-team--sure-shot-shroomboom.webp",
+    "source": "Card Printouts/4. Trap Team/Sure Shot Shroomboom.jpg"
+  },
+  "trap team|thunderbolt": {
+    "name": "Thunderbolt",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--thunderbolt.webp",
+    "card": "cards/trap-team--thunderbolt.webp",
+    "source": "Card Printouts/4. Trap Team/Thunderbolt.jpg"
+  },
+  "trap team|tidal wave gill grunt": {
+    "name": "Tidal Wave Gill Grunt",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--tidal-wave-gill-grunt.webp",
+    "card": "cards/trap-team--tidal-wave-gill-grunt.webp",
+    "source": "Card Printouts/4. Trap Team/Tidal Wave Gill Grunt.jpg"
+  },
+  "trap team|tiki speaky": {
+    "name": "Tiki Speaky",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--tiki-speaky.webp",
+    "card": "cards/trap-team--tiki-speaky.webp",
+    "source": "Card Printouts/4. Trap Team/Tiki Speaky.jpg"
+  },
+  "trap team|torch": {
+    "name": "Torch",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--torch.webp",
+    "card": "cards/trap-team--torch.webp",
+    "source": "Card Printouts/4. Trap Team/Torch.jpg"
+  },
+  "trap team|trail blazer": {
+    "name": "Trail Blazer",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trail-blazer.webp",
+    "card": "cards/trap-team--trail-blazer.webp",
+    "source": "Card Printouts/4. Trap Team/Trail Blazer.jpg"
+  },
+  "trap team|trap aqua axe": {
+    "name": "Trap Aqua Axe",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-aqua-axe.webp",
+    "card": "cards/trap-team--trap-aqua-axe.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Aqua Axe.jpg"
+  },
+  "trap team|trap arcane hourglass": {
+    "name": "Trap Arcane Hourglass",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-arcane-hourglass.webp",
+    "card": "cards/trap-team--trap-arcane-hourglass.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Arcane Hourglass.jpg"
+  },
+  "trap team|trap automatic angel": {
+    "name": "Trap Automatic Angel",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-automatic-angel.webp",
+    "card": "cards/trap-team--trap-automatic-angel.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Automatic Angel.jpg"
+  },
+  "trap team|trap axe of illusion": {
+    "name": "Trap Axe Of Illusion",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-axe-of-illusion.webp",
+    "card": "cards/trap-team--trap-axe-of-illusion.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Axe Of Illusion.jpg"
+  },
+  "trap team|trap banded boulder": {
+    "name": "Trap Banded Boulder",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-banded-boulder.webp",
+    "card": "cards/trap-team--trap-banded-boulder.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Banded Boulder.jpg"
+  },
+  "trap team|trap beam scream 1": {
+    "name": "Trap Beam Scream 1",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-beam-scream-1.webp",
+    "card": "cards/trap-team--trap-beam-scream-1.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Beam Scream 1.jpg"
+  },
+  "trap team|trap beam scream 2": {
+    "name": "Trap Beam Scream 2",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-beam-scream-2.webp",
+    "card": "cards/trap-team--trap-beam-scream-2.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Beam Scream 2.jpg"
+  },
+  "trap team|trap biter s bane": {
+    "name": "Trap Biter_s Bane",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-biter-s-bane.webp",
+    "card": "cards/trap-team--trap-biter-s-bane.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Biter_s Bane.jpg"
+  },
+  "trap team|trap blazing belch": {
+    "name": "Trap Blazing Belch",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-blazing-belch.webp",
+    "card": "cards/trap-team--trap-blazing-belch.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Blazing Belch.jpg"
+  },
+  "trap team|trap breezy bird": {
+    "name": "Trap Breezy Bird",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-breezy-bird.webp",
+    "card": "cards/trap-team--trap-breezy-bird.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Breezy Bird.jpg"
+  },
+  "trap team|trap cloudy cobra": {
+    "name": "Trap Cloudy Cobra",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-cloudy-cobra.webp",
+    "card": "cards/trap-team--trap-cloudy-cobra.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Cloudy Cobra.jpg"
+  },
+  "trap team|trap cyclone sabre": {
+    "name": "Trap Cyclone Sabre",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-cyclone-sabre.webp",
+    "card": "cards/trap-team--trap-cyclone-sabre.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Cyclone Sabre.jpg"
+  },
+  "trap team|trap dark dagger": {
+    "name": "Trap Dark Dagger",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-dark-dagger.webp",
+    "card": "cards/trap-team--trap-dark-dagger.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Dark Dagger.jpg"
+  },
+  "trap team|trap drafty decanter": {
+    "name": "Trap Drafty Decanter",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-drafty-decanter.webp",
+    "card": "cards/trap-team--trap-drafty-decanter.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Drafty Decanter.jpg"
+  },
+  "trap team|trap dream piercer": {
+    "name": "Trap Dream Piercer",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-dream-piercer.webp",
+    "card": "cards/trap-team--trap-dream-piercer.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Dream Piercer.jpg"
+  },
+  "trap team|trap dust of time": {
+    "name": "Trap Dust of Time",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-dust-of-time.webp",
+    "card": "cards/trap-team--trap-dust-of-time.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Dust of Time.jpg"
+  },
+  "trap team|trap emerald energy": {
+    "name": "Trap Emerald Energy",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-emerald-energy.webp",
+    "card": "cards/trap-team--trap-emerald-energy.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Emerald Energy.jpg"
+  },
+  "trap team|trap eternal flame": {
+    "name": "Trap Eternal Flame",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-eternal-flame.webp",
+    "card": "cards/trap-team--trap-eternal-flame.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Eternal Flame.jpg"
+  },
+  "trap team|trap factory flower": {
+    "name": "Trap Factory Flower",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-factory-flower.webp",
+    "card": "cards/trap-team--trap-factory-flower.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Factory Flower.jpg"
+  },
+  "trap team|trap fire flower": {
+    "name": "Trap Fire Flower",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-fire-flower.webp",
+    "card": "cards/trap-team--trap-fire-flower.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Fire Flower.jpg"
+  },
+  "trap team|trap flood flask": {
+    "name": "Trap Flood Flask",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-flood-flask.webp",
+    "card": "cards/trap-team--trap-flood-flask.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Flood Flask.jpg"
+  },
+  "trap team|trap frost helm": {
+    "name": "Trap Frost Helm",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-frost-helm.webp",
+    "card": "cards/trap-team--trap-frost-helm.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Frost Helm.jpg"
+  },
+  "trap team|trap ghastly grimace": {
+    "name": "Trap Ghastly Grimace",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-ghastly-grimace.webp",
+    "card": "cards/trap-team--trap-ghastly-grimace.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Ghastly Grimace.jpg"
+  },
+  "trap team|trap grabbing gadget": {
+    "name": "Trap Grabbing Gadget",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-grabbing-gadget.webp",
+    "card": "cards/trap-team--trap-grabbing-gadget.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Grabbing Gadget.jpg"
+  },
+  "trap team|trap grim gripper": {
+    "name": "Trap Grim Gripper",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-grim-gripper.webp",
+    "card": "cards/trap-team--trap-grim-gripper.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Grim Gripper.jpg"
+  },
+  "trap team|trap haunted hatchet": {
+    "name": "Trap Haunted Hatchet",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-haunted-hatchet.webp",
+    "card": "cards/trap-team--trap-haunted-hatchet.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Haunted Hatchet.jpg"
+  },
+  "trap team|trap heavenly hawk": {
+    "name": "Trap Heavenly Hawk",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-heavenly-hawk.webp",
+    "card": "cards/trap-team--trap-heavenly-hawk.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Heavenly Hawk.jpg"
+  },
+  "trap team|trap jade blade": {
+    "name": "Trap Jade Blade",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-jade-blade.webp",
+    "card": "cards/trap-team--trap-jade-blade.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Jade Blade.jpg"
+  },
+  "trap team|trap kaos trap": {
+    "name": "Trap Kaos Trap",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-kaos-trap.webp",
+    "card": "cards/trap-team--trap-kaos-trap.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Kaos Trap.jpg"
+  },
+  "trap team|trap legendary flood flask": {
+    "name": "Trap Legendary Flood Flask",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-legendary-flood-flask.webp",
+    "card": "cards/trap-team--trap-legendary-flood-flask.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Legendary Flood Flask.jpg"
+  },
+  "trap team|trap legendary spectral skull": {
+    "name": "Trap Legendary Spectral Skull",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-legendary-spectral-skull.webp",
+    "card": "cards/trap-team--trap-legendary-spectral-skull.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Legendary Spectral Skull.jpg"
+  },
+  "trap team|trap legendary spirit sphere": {
+    "name": "Trap Legendary Spirit Sphere",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-legendary-spirit-sphere.webp",
+    "card": "cards/trap-team--trap-legendary-spirit-sphere.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Legendary Spirit Sphere.jpg"
+  },
+  "trap team|trap makers mana": {
+    "name": "Trap Makers Mana",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-makers-mana.webp",
+    "card": "cards/trap-team--trap-makers-mana.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Makers Mana.jpg"
+  },
+  "trap team|trap oak eagle": {
+    "name": "Trap Oak Eagle",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-oak-eagle.webp",
+    "card": "cards/trap-team--trap-oak-eagle.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Oak Eagle.jpg"
+  },
+  "trap team|trap outlaw wet walter": {
+    "name": "Trap Outlaw Wet Walter",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-outlaw-wet-walter.webp",
+    "card": "cards/trap-team--trap-outlaw-wet-walter.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Outlaw Wet Walter.jpg"
+  },
+  "trap team|trap rebel shining ship": {
+    "name": "Trap Rebel Shining Ship",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-rebel-shining-ship.webp",
+    "card": "cards/trap-team--trap-rebel-shining-ship.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Rebel Shining Ship.jpg"
+  },
+  "trap team|trap red hot spinning sandstorm": {
+    "name": "Trap Red Hot Spinning Sandstorm",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-red-hot-spinning-sandstorm.webp",
+    "card": "cards/trap-team--trap-red-hot-spinning-sandstorm.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Red Hot Spinning Sandstorm.jpg"
+  },
+  "trap team|trap riot emerald energy": {
+    "name": "Trap Riot Emerald Energy",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-riot-emerald-energy.webp",
+    "card": "cards/trap-team--trap-riot-emerald-energy.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Riot Emerald Energy.jpg"
+  },
+  "trap team|trap rock hawk": {
+    "name": "Trap Rock Hawk",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-rock-hawk.webp",
+    "card": "cards/trap-team--trap-rock-hawk.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Rock Hawk.jpg"
+  },
+  "trap team|trap rubble trouble": {
+    "name": "Trap Rubble Trouble",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-rubble-trouble.webp",
+    "card": "cards/trap-team--trap-rubble-trouble.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Rubble Trouble.jpg"
+  },
+  "trap team|trap rune rocket": {
+    "name": "Trap Rune Rocket",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-rune-rocket.webp",
+    "card": "cards/trap-team--trap-rune-rocket.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Rune Rocket.jpg"
+  },
+  "trap team|trap scorching stopper": {
+    "name": "Trap Scorching Stopper",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-scorching-stopper.webp",
+    "card": "cards/trap-team--trap-scorching-stopper.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Scorching Stopper.jpg"
+  },
+  "trap team|trap searing spinner": {
+    "name": "Trap Searing Spinner",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-searing-spinner.webp",
+    "card": "cards/trap-team--trap-searing-spinner.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Searing Spinner.jpg"
+  },
+  "trap team|trap seed serpent": {
+    "name": "Trap Seed Serpent",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-seed-serpent.webp",
+    "card": "cards/trap-team--trap-seed-serpent.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Seed Serpent.jpg"
+  },
+  "trap team|trap shadow spider 1": {
+    "name": "Trap Shadow Spider 1",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-shadow-spider-1.webp",
+    "card": "cards/trap-team--trap-shadow-spider-1.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Shadow Spider 1.jpg"
+  },
+  "trap team|trap shadow spider 2": {
+    "name": "Trap Shadow Spider 2",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-shadow-spider-2.webp",
+    "card": "cards/trap-team--trap-shadow-spider-2.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Shadow Spider 2.jpg"
+  },
+  "trap team|trap shining ship": {
+    "name": "Trap Shining Ship",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-shining-ship.webp",
+    "card": "cards/trap-team--trap-shining-ship.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Shining Ship.jpg"
+  },
+  "trap team|trap shrub shrieker": {
+    "name": "Trap Shrub Shrieker",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-shrub-shrieker.webp",
+    "card": "cards/trap-team--trap-shrub-shrieker.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Shrub Shrieker.jpg"
+  },
+  "trap team|trap slag hammer": {
+    "name": "Trap Slag Hammer",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-slag-hammer.webp",
+    "card": "cards/trap-team--trap-slag-hammer.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Slag Hammer.jpg"
+  },
+  "trap team|trap soaking staff": {
+    "name": "Trap Soaking Staff",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-soaking-staff.webp",
+    "card": "cards/trap-team--trap-soaking-staff.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Soaking Staff.jpg"
+  },
+  "trap team|trap sorcerous skull": {
+    "name": "Trap Sorcerous Skull",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-sorcerous-skull.webp",
+    "card": "cards/trap-team--trap-sorcerous-skull.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Sorcerous Skull.jpg"
+  },
+  "trap team|trap spark spear": {
+    "name": "Trap Spark Spear",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spark-spear.webp",
+    "card": "cards/trap-team--trap-spark-spear.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spark Spear.jpg"
+  },
+  "trap team|trap spectral skull": {
+    "name": "Trap Spectral Skull",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spectral-skull.webp",
+    "card": "cards/trap-team--trap-spectral-skull.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spectral Skull.jpg"
+  },
+  "trap team|trap spell slapper": {
+    "name": "Trap Spell Slapper",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spell-slapper.webp",
+    "card": "cards/trap-team--trap-spell-slapper.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spell Slapper.jpg"
+  },
+  "trap team|trap spinning sandstorm": {
+    "name": "Trap Spinning Sandstorm",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spinning-sandstorm.webp",
+    "card": "cards/trap-team--trap-spinning-sandstorm.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spinning Sandstorm.jpg"
+  },
+  "trap team|trap spirit sphere": {
+    "name": "Trap Spirit Sphere",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spirit-sphere.webp",
+    "card": "cards/trap-team--trap-spirit-sphere.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spirit Sphere.jpg"
+  },
+  "trap team|trap spooky snake": {
+    "name": "Trap Spooky Snake",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-spooky-snake.webp",
+    "card": "cards/trap-team--trap-spooky-snake.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Spooky Snake.jpg"
+  },
+  "trap team|trap steamed oak eagle": {
+    "name": "Trap Steamed Oak Eagle",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-steamed-oak-eagle.webp",
+    "card": "cards/trap-team--trap-steamed-oak-eagle.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Steamed Oak Eagle.jpg"
+  },
+  "trap team|trap steampunk makers mana": {
+    "name": "Trap Steampunk Makers Mana",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-steampunk-makers-mana.webp",
+    "card": "cards/trap-team--trap-steampunk-makers-mana.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Steampunk Makers Mana.jpg"
+  },
+  "trap team|trap storm warning": {
+    "name": "Trap Storm Warning",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-storm-warning.webp",
+    "card": "cards/trap-team--trap-storm-warning.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Storm Warning.jpg"
+  },
+  "trap team|trap tech totem": {
+    "name": "Trap Tech Totem",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-tech-totem.webp",
+    "card": "cards/trap-team--trap-tech-totem.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Tech Totem.jpg"
+  },
+  "trap team|trap tempest timer": {
+    "name": "Trap Tempest Timer",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-tempest-timer.webp",
+    "card": "cards/trap-team--trap-tempest-timer.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Tempest Timer.jpg"
+  },
+  "trap team|trap tidal tiki": {
+    "name": "Trap Tidal Tiki",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-tidal-tiki.webp",
+    "card": "cards/trap-team--trap-tidal-tiki.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Tidal Tiki.jpg"
+  },
+  "trap team|trap topsy techy": {
+    "name": "Trap Topsy Techy",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-topsy-techy.webp",
+    "card": "cards/trap-team--trap-topsy-techy.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Topsy Techy.jpg"
+  },
+  "trap team|trap ultimate kaos trap": {
+    "name": "Trap Ultimate Kaos Trap",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-ultimate-kaos-trap.webp",
+    "card": "cards/trap-team--trap-ultimate-kaos-trap.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Ultimate Kaos Trap.jpg"
+  },
+  "trap team|trap weed whacker": {
+    "name": "Trap Weed Whacker",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-weed-whacker.webp",
+    "card": "cards/trap-team--trap-weed-whacker.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Weed Whacker.jpg"
+  },
+  "trap team|trap wet walter": {
+    "name": "Trap Wet Walter",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--trap-wet-walter.webp",
+    "card": "cards/trap-team--trap-wet-walter.webp",
+    "source": "Card Printouts/4. Trap Team/Trap Wet Walter.jpg"
+  },
+  "trap team|tread head": {
+    "name": "Tread Head",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--tread-head.webp",
+    "card": "cards/trap-team--tread-head.webp",
+    "source": "Card Printouts/4. Trap Team/Tread Head.jpg"
+  },
+  "trap team|tuff luck": {
+    "name": "Tuff Luck",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--tuff-luck.webp",
+    "card": "cards/trap-team--tuff-luck.webp",
+    "source": "Card Printouts/4. Trap Team/Tuff Luck.jpg"
+  },
+  "trap team|wallop": {
+    "name": "Wallop",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--wallop.webp",
+    "card": "cards/trap-team--wallop.webp",
+    "source": "Card Printouts/4. Trap Team/Wallop.jpg"
+  },
+  "trap team|weeruptor": {
+    "name": "Weeruptor",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--weeruptor.webp",
+    "card": "cards/trap-team--weeruptor.webp",
+    "source": "Card Printouts/4. Trap Team/Weeruptor.jpg"
+  },
+  "trap team|wildfire": {
+    "name": "Wildfire",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--wildfire.webp",
+    "card": "cards/trap-team--wildfire.webp",
+    "source": "Card Printouts/4. Trap Team/Wildfire.jpg"
+  },
+  "trap team|winterfest lob star": {
+    "name": "Winterfest Lob-Star",
+    "game": "trap team",
+    "portrait": "portraits/trap-team--winterfest-lob-star.webp",
+    "card": "cards/trap-team--winterfest-lob-star.webp",
+    "source": "Card Printouts/4. Trap Team/Winterfest Lob-Star.jpg"
+  },
+  "superchargers|astroblast": {
+    "name": "Astroblast",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--astroblast.webp",
+    "card": "cards/superchargers--astroblast.webp",
+    "source": "Card Printouts/5. Superchargers/Astroblast.jpg"
+  },
+  "superchargers|big bubble pop fizz": {
+    "name": "Big Bubble Pop Fizz",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--big-bubble-pop-fizz.webp",
+    "card": "cards/superchargers--big-bubble-pop-fizz.webp",
+    "source": "Card Printouts/5. Superchargers/Big Bubble Pop Fizz.jpg"
+  },
+  "superchargers|birthday bash big bubble pop fizz": {
+    "name": "Birthday Bash Big Bubble Pop Fizz",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--birthday-bash-big-bubble-pop-fizz.webp",
+    "card": "cards/superchargers--birthday-bash-big-bubble-pop-fizz.webp",
+    "source": "Card Printouts/5. Superchargers/Birthday Bash Big Bubble Pop Fizz.jpg"
+  },
+  "superchargers|bone bash roller brawl": {
+    "name": "Bone Bash Roller Brawl",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--bone-bash-roller-brawl.webp",
+    "card": "cards/superchargers--bone-bash-roller-brawl.webp",
+    "source": "Card Printouts/5. Superchargers/Bone Bash Roller Brawl.jpg"
+  },
+  "superchargers|dark hammer slam bowser": {
+    "name": "Dark Hammer Slam Bowser",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--dark-hammer-slam-bowser.webp",
+    "card": "cards/superchargers--dark-hammer-slam-bowser.webp",
+    "source": "Card Printouts/5. Superchargers/Dark Hammer Slam Bowser.jpg"
+  },
+  "superchargers|dark spitfire": {
+    "name": "Dark Spitfire",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--dark-spitfire.webp",
+    "card": "cards/superchargers--dark-spitfire.webp",
+    "source": "Card Printouts/5. Superchargers/Dark Spitfire.jpg"
+  },
+  "superchargers|dark super shot stealth elf": {
+    "name": "Dark Super Shot Stealth Elf",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--dark-super-shot-stealth-elf.webp",
+    "card": "cards/superchargers--dark-super-shot-stealth-elf.webp",
+    "source": "Card Printouts/5. Superchargers/Dark Super Shot Stealth Elf.jpg"
+  },
+  "superchargers|dark turbo charge donkey kong": {
+    "name": "Dark Turbo Charge Donkey Kong",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--dark-turbo-charge-donkey-kong.webp",
+    "card": "cards/superchargers--dark-turbo-charge-donkey-kong.webp",
+    "source": "Card Printouts/5. Superchargers/Dark Turbo Charge Donkey Kong.jpg"
+  },
+  "superchargers|deep dive gill grunt": {
+    "name": "Deep Dive Gill Grunt",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--deep-dive-gill-grunt.webp",
+    "card": "cards/superchargers--deep-dive-gill-grunt.webp",
+    "source": "Card Printouts/5. Superchargers/Deep Dive Gill Grunt.jpg"
+  },
+  "superchargers|dive clops": {
+    "name": "Dive Clops",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--dive-clops.webp",
+    "card": "cards/superchargers--dive-clops.webp",
+    "source": "Card Printouts/5. Superchargers/Dive Clops.jpg"
+  },
+  "superchargers|double dare trigger happy": {
+    "name": "Double Dare Trigger Happy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--double-dare-trigger-happy.webp",
+    "card": "cards/superchargers--double-dare-trigger-happy.webp",
+    "source": "Card Printouts/5. Superchargers/Double Dare Trigger Happy.jpg"
+  },
+  "superchargers|eggcited thrillipede": {
+    "name": "Eggcited Thrillipede",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--eggcited-thrillipede.webp",
+    "card": "cards/superchargers--eggcited-thrillipede.webp",
+    "source": "Card Printouts/5. Superchargers/Eggcited Thrillipede.jpg"
+  },
+  "superchargers|fiesta": {
+    "name": "Fiesta",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--fiesta.webp",
+    "card": "cards/superchargers--fiesta.webp",
+    "source": "Card Printouts/5. Superchargers/Fiesta.jpg"
+  },
+  "superchargers|frightful fiesta": {
+    "name": "Frightful Fiesta",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--frightful-fiesta.webp",
+    "card": "cards/superchargers--frightful-fiesta.webp",
+    "source": "Card Printouts/5. Superchargers/Frightful Fiesta.jpg"
+  },
+  "superchargers|hammer slam bowser": {
+    "name": "Hammer Slam Bowser",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--hammer-slam-bowser.webp",
+    "card": "cards/superchargers--hammer-slam-bowser.webp",
+    "source": "Card Printouts/5. Superchargers/Hammer Slam Bowser.jpg"
+  },
+  "superchargers|high volt": {
+    "name": "High Volt",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--high-volt.webp",
+    "card": "cards/superchargers--high-volt.webp",
+    "source": "Card Printouts/5. Superchargers/High Volt.jpg"
+  },
+  "superchargers|hurricane jet vac": {
+    "name": "Hurricane Jet Vac",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--hurricane-jet-vac.webp",
+    "card": "cards/superchargers--hurricane-jet-vac.webp",
+    "source": "Card Printouts/5. Superchargers/Hurricane Jet Vac.jpg"
+  },
+  "superchargers|kaos trophy": {
+    "name": "Kaos Trophy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--kaos-trophy.webp",
+    "card": "cards/superchargers--kaos-trophy.webp",
+    "source": "Card Printouts/5. Superchargers/Kaos Trophy.jpg"
+  },
+  "superchargers|land trophy": {
+    "name": "Land Trophy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--land-trophy.webp",
+    "card": "cards/superchargers--land-trophy.webp",
+    "source": "Card Printouts/5. Superchargers/Land Trophy.jpg"
+  },
+  "superchargers|lava lance eruptor": {
+    "name": "Lava Lance Eruptor",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--lava-lance-eruptor.webp",
+    "card": "cards/superchargers--lava-lance-eruptor.webp",
+    "source": "Card Printouts/5. Superchargers/Lava Lance Eruptor.jpg"
+  },
+  "superchargers|legendary astroblast": {
+    "name": "Legendary Astroblast",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--legendary-astroblast.webp",
+    "card": "cards/superchargers--legendary-astroblast.webp",
+    "source": "Card Printouts/5. Superchargers/Legendary Astroblast.jpg"
+  },
+  "superchargers|legendary bone bash roller brawl": {
+    "name": "Legendary Bone Bash Roller Brawl",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--legendary-bone-bash-roller-brawl.webp",
+    "card": "cards/superchargers--legendary-bone-bash-roller-brawl.webp",
+    "source": "Card Printouts/5. Superchargers/Legendary Bone Bash Roller Brawl.jpg"
+  },
+  "superchargers|legendary hurricane jet vac": {
+    "name": "Legendary Hurricane Jet-Vac",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--legendary-hurricane-jet-vac.webp",
+    "card": "cards/superchargers--legendary-hurricane-jet-vac.webp",
+    "source": "Card Printouts/5. Superchargers/Legendary Hurricane Jet-Vac.jpg"
+  },
+  "superchargers|missle toe dive clops": {
+    "name": "Missle Toe Dive-Clops",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--missle-toe-dive-clops.webp",
+    "card": "cards/superchargers--missle-toe-dive-clops.webp",
+    "source": "Card Printouts/5. Superchargers/Missle Toe Dive-Clops.jpg"
+  },
+  "superchargers|nightfall": {
+    "name": "Nightfall",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--nightfall.webp",
+    "card": "cards/superchargers--nightfall.webp",
+    "source": "Card Printouts/5. Superchargers/Nightfall.jpg"
+  },
+  "superchargers|power blue double dare trigger happy": {
+    "name": "Power Blue Double Dare Trigger Happy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--power-blue-double-dare-trigger-happy.webp",
+    "card": "cards/superchargers--power-blue-double-dare-trigger-happy.webp",
+    "source": "Card Printouts/5. Superchargers/Power Blue Double Dare Trigger Happy.jpg"
+  },
+  "superchargers|power blue splat": {
+    "name": "Power Blue Splat",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--power-blue-splat.webp",
+    "card": "cards/superchargers--power-blue-splat.webp",
+    "source": "Card Printouts/5. Superchargers/Power Blue Splat.jpg"
+  },
+  "superchargers|sea trophy": {
+    "name": "Sea Trophy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--sea-trophy.webp",
+    "card": "cards/superchargers--sea-trophy.webp",
+    "source": "Card Printouts/5. Superchargers/Sea Trophy.jpg"
+  },
+  "superchargers|shark shooter terrafin": {
+    "name": "Shark Shooter Terrafin",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--shark-shooter-terrafin.webp",
+    "card": "cards/superchargers--shark-shooter-terrafin.webp",
+    "source": "Card Printouts/5. Superchargers/Shark Shooter Terrafin.jpg"
+  },
+  "superchargers|sky trophy": {
+    "name": "Sky Trophy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--sky-trophy.webp",
+    "card": "cards/superchargers--sky-trophy.webp",
+    "source": "Card Printouts/5. Superchargers/Sky Trophy.jpg"
+  },
+  "superchargers|smash hit": {
+    "name": "Smash Hit",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--smash-hit.webp",
+    "card": "cards/superchargers--smash-hit.webp",
+    "source": "Card Printouts/5. Superchargers/Smash Hit.jpg"
+  },
+  "superchargers|spitfire": {
+    "name": "Spitfire",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--spitfire.webp",
+    "card": "cards/superchargers--spitfire.webp",
+    "source": "Card Printouts/5. Superchargers/Spitfire.jpg"
+  },
+  "superchargers|splat": {
+    "name": "Splat",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--splat.webp",
+    "card": "cards/superchargers--splat.webp",
+    "source": "Card Printouts/5. Superchargers/Splat.jpg"
+  },
+  "superchargers|steel plated smash hit": {
+    "name": "Steel Plated Smash Hit",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--steel-plated-smash-hit.webp",
+    "card": "cards/superchargers--steel-plated-smash-hit.webp",
+    "source": "Card Printouts/5. Superchargers/Steel Plated Smash Hit.jpg"
+  },
+  "superchargers|stormblade": {
+    "name": "Stormblade",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--stormblade.webp",
+    "card": "cards/superchargers--stormblade.webp",
+    "source": "Card Printouts/5. Superchargers/Stormblade.jpg"
+  },
+  "superchargers|super shot stealth elf": {
+    "name": "Super Shot Stealth Elf",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--super-shot-stealth-elf.webp",
+    "card": "cards/superchargers--super-shot-stealth-elf.webp",
+    "source": "Card Printouts/5. Superchargers/Super Shot Stealth Elf.jpg"
+  },
+  "superchargers|thrillipede": {
+    "name": "Thrillipede",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--thrillipede.webp",
+    "card": "cards/superchargers--thrillipede.webp",
+    "source": "Card Printouts/5. Superchargers/Thrillipede.jpg"
+  },
+  "superchargers|tomb buggy": {
+    "name": "Tomb Buggy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--tomb-buggy.webp",
+    "card": "cards/superchargers--tomb-buggy.webp",
+    "source": "Card Printouts/5. Superchargers/Tomb Buggy.jpg"
+  },
+  "superchargers|turbo charge donkey kong": {
+    "name": "Turbo Charge Donkey Kong",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--turbo-charge-donkey-kong.webp",
+    "card": "cards/superchargers--turbo-charge-donkey-kong.webp",
+    "source": "Card Printouts/5. Superchargers/Turbo Charge Donkey Kong.jpg"
+  },
+  "superchargers|vehicle barrel blaster": {
+    "name": "Vehicle Barrel Blaster",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-barrel-blaster.webp",
+    "card": "cards/superchargers--vehicle-barrel-blaster.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Barrel Blaster.jpg"
+  },
+  "superchargers|vehicle burn cycle": {
+    "name": "Vehicle Burn-Cycle",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-burn-cycle.webp",
+    "card": "cards/superchargers--vehicle-burn-cycle.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Burn-Cycle.jpg"
+  },
+  "superchargers|vehicle buzz wing": {
+    "name": "Vehicle Buzz Wing",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-buzz-wing.webp",
+    "card": "cards/superchargers--vehicle-buzz-wing.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Buzz Wing.jpg"
+  },
+  "superchargers|vehicle clown cruiser": {
+    "name": "Vehicle Clown Cruiser",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-clown-cruiser.webp",
+    "card": "cards/superchargers--vehicle-clown-cruiser.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Clown Cruiser.jpg"
+  },
+  "superchargers|vehicle crypt crusher": {
+    "name": "Vehicle Crypt Crusher",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-crypt-crusher.webp",
+    "card": "cards/superchargers--vehicle-crypt-crusher.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Crypt Crusher.jpg"
+  },
+  "superchargers|vehicle dark barrel blaster": {
+    "name": "Vehicle Dark Barrel Blaster",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-dark-barrel-blaster.webp",
+    "card": "cards/superchargers--vehicle-dark-barrel-blaster.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Dark Barrel Blaster.jpg"
+  },
+  "superchargers|vehicle dark clown cruiser": {
+    "name": "Vehicle Dark Clown Cruiser",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-dark-clown-cruiser.webp",
+    "card": "cards/superchargers--vehicle-dark-clown-cruiser.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Dark Clown Cruiser.jpg"
+  },
+  "superchargers|vehicle dark hot streak": {
+    "name": "Vehicle Dark Hot Streak",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-dark-hot-streak.webp",
+    "card": "cards/superchargers--vehicle-dark-hot-streak.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Dark Hot Streak.jpg"
+  },
+  "superchargers|vehicle dark sea shadow": {
+    "name": "Vehicle Dark Sea Shadow",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-dark-sea-shadow.webp",
+    "card": "cards/superchargers--vehicle-dark-sea-shadow.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Dark Sea Shadow.jpg"
+  },
+  "superchargers|vehicle dive bomber": {
+    "name": "Vehicle Dive Bomber",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-dive-bomber.webp",
+    "card": "cards/superchargers--vehicle-dive-bomber.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Dive Bomber.jpg"
+  },
+  "superchargers|vehicle e3 hot streak": {
+    "name": "Vehicle E3 Hot Streak",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-e3-hot-streak.webp",
+    "card": "cards/superchargers--vehicle-e3-hot-streak.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle E3 Hot Streak.jpg"
+  },
+  "superchargers|vehicle gold rusher": {
+    "name": "Vehicle Gold Rusher",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-gold-rusher.webp",
+    "card": "cards/superchargers--vehicle-gold-rusher.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Gold Rusher.jpg"
+  },
+  "superchargers|vehicle golden hot streak": {
+    "name": "Vehicle Golden Hot Streak",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-golden-hot-streak.webp",
+    "card": "cards/superchargers--vehicle-golden-hot-streak.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Golden Hot Streak.jpg"
+  },
+  "superchargers|vehicle hot streak": {
+    "name": "Vehicle Hot Streak",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-hot-streak.webp",
+    "card": "cards/superchargers--vehicle-hot-streak.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Hot Streak.jpg"
+  },
+  "superchargers|vehicle jet stream": {
+    "name": "Vehicle Jet Stream",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-jet-stream.webp",
+    "card": "cards/superchargers--vehicle-jet-stream.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Jet Stream.jpg"
+  },
+  "superchargers|vehicle legendary sun runner": {
+    "name": "Vehicle Legendary Sun Runner",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-legendary-sun-runner.webp",
+    "card": "cards/superchargers--vehicle-legendary-sun-runner.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Legendary Sun Runner.jpg"
+  },
+  "superchargers|vehicle nitro soda skimmer": {
+    "name": "Vehicle Nitro Soda Skimmer",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-nitro-soda-skimmer.webp",
+    "card": "cards/superchargers--vehicle-nitro-soda-skimmer.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Nitro Soda Skimmer.jpg"
+  },
+  "superchargers|vehicle nitro stealth stinger": {
+    "name": "Vehicle Nitro Stealth Stinger",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-nitro-stealth-stinger.webp",
+    "card": "cards/superchargers--vehicle-nitro-stealth-stinger.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Nitro Stealth Stinger.jpg"
+  },
+  "superchargers|vehicle power blue gold rusher": {
+    "name": "Vehicle Power Blue Gold Rusher",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-power-blue-gold-rusher.webp",
+    "card": "cards/superchargers--vehicle-power-blue-gold-rusher.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Power Blue Gold Rusher.jpg"
+  },
+  "superchargers|vehicle power blue splatter splasher": {
+    "name": "Vehicle Power Blue Splatter Splasher",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-power-blue-splatter-splasher.webp",
+    "card": "cards/superchargers--vehicle-power-blue-splatter-splasher.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Power Blue Splatter Splasher.jpg"
+  },
+  "superchargers|vehicle reef ripper": {
+    "name": "Vehicle Reef Ripper",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-reef-ripper.webp",
+    "card": "cards/superchargers--vehicle-reef-ripper.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Reef Ripper.jpg"
+  },
+  "superchargers|vehicle sea shadow": {
+    "name": "Vehicle Sea Shadow",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-sea-shadow.webp",
+    "card": "cards/superchargers--vehicle-sea-shadow.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Sea Shadow.jpg"
+  },
+  "superchargers|vehicle shark tank": {
+    "name": "Vehicle Shark Tank",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-shark-tank.webp",
+    "card": "cards/superchargers--vehicle-shark-tank.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Shark Tank.jpg"
+  },
+  "superchargers|vehicle shield striker": {
+    "name": "Vehicle Shield Striker",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-shield-striker.webp",
+    "card": "cards/superchargers--vehicle-shield-striker.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Shield Striker.jpg"
+  },
+  "superchargers|vehicle sky slicer": {
+    "name": "Vehicle Sky Slicer",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-sky-slicer.webp",
+    "card": "cards/superchargers--vehicle-sky-slicer.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Sky Slicer.jpg"
+  },
+  "superchargers|vehicle soda skimmer": {
+    "name": "Vehicle Soda Skimmer",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-soda-skimmer.webp",
+    "card": "cards/superchargers--vehicle-soda-skimmer.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Soda Skimmer.jpg"
+  },
+  "superchargers|vehicle splatter splasher": {
+    "name": "Vehicle Splatter Splasher",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-splatter-splasher.webp",
+    "card": "cards/superchargers--vehicle-splatter-splasher.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Splatter Splasher.jpg"
+  },
+  "superchargers|vehicle spring ahead dive bomber": {
+    "name": "Vehicle Spring Ahead Dive Bomber",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-spring-ahead-dive-bomber.webp",
+    "card": "cards/superchargers--vehicle-spring-ahead-dive-bomber.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Spring Ahead Dive Bomber.jpg"
+  },
+  "superchargers|vehicle stealth stinger": {
+    "name": "Vehicle Stealth Stinger",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-stealth-stinger.webp",
+    "card": "cards/superchargers--vehicle-stealth-stinger.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Stealth Stinger.jpg"
+  },
+  "superchargers|vehicle sun runner": {
+    "name": "Vehicle Sun Runner",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-sun-runner.webp",
+    "card": "cards/superchargers--vehicle-sun-runner.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Sun Runner.jpg"
+  },
+  "superchargers|vehicle thump truck": {
+    "name": "Vehicle Thump Truck",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-thump-truck.webp",
+    "card": "cards/superchargers--vehicle-thump-truck.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Thump Truck.jpg"
+  },
+  "superchargers|vehicle tomb buggy": {
+    "name": "Vehicle Tomb Buggy",
+    "game": "superchargers",
+    "portrait": "portraits/superchargers--vehicle-tomb-buggy.webp",
+    "card": "cards/superchargers--vehicle-tomb-buggy.webp",
+    "source": "Card Printouts/5. Superchargers/Vehicle Tomb Buggy.jpg"
+  },
+  "imaginators|air strike": {
+    "name": "Air Strike",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--air-strike.webp",
+    "card": "cards/imaginators--air-strike.webp",
+    "source": "Card Printouts/6. Imaginators/Air Strike.jpg"
+  },
+  "imaginators|ambush": {
+    "name": "Ambush",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--ambush.webp",
+    "card": "cards/imaginators--ambush.webp",
+    "source": "Card Printouts/6. Imaginators/Ambush.jpg"
+  },
+  "imaginators|aurora": {
+    "name": "Aurora",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--aurora.webp",
+    "card": "cards/imaginators--aurora.webp",
+    "source": "Card Printouts/6. Imaginators/Aurora.jpg"
+  },
+  "imaginators|bad juju": {
+    "name": "Bad Juju",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--bad-juju.webp",
+    "card": "cards/imaginators--bad-juju.webp",
+    "source": "Card Printouts/6. Imaginators/Bad Juju.jpg"
+  },
+  "imaginators|barbella": {
+    "name": "Barbella",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--barbella.webp",
+    "card": "cards/imaginators--barbella.webp",
+    "source": "Card Printouts/6. Imaginators/Barbella.jpg"
+  },
+  "imaginators|blaster tron": {
+    "name": "Blaster Tron",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--blaster-tron.webp",
+    "card": "cards/imaginators--blaster-tron.webp",
+    "source": "Card Printouts/6. Imaginators/Blaster Tron.jpg"
+  },
+  "imaginators|blue imaginite chest": {
+    "name": "Blue Imaginite Chest",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--blue-imaginite-chest.webp",
+    "card": "cards/imaginators--blue-imaginite-chest.webp",
+    "source": "Card Printouts/6. Imaginators/Blue Imaginite Chest.jpg"
+  },
+  "imaginators|boom bloom": {
+    "name": "Boom Bloom",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--boom-bloom.webp",
+    "card": "cards/imaginators--boom-bloom.webp",
+    "source": "Card Printouts/6. Imaginators/Boom Bloom.jpg"
+  },
+  "imaginators|buckshot": {
+    "name": "Buckshot",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--buckshot.webp",
+    "card": "cards/imaginators--buckshot.webp",
+    "source": "Card Printouts/6. Imaginators/Buckshot.jpg"
+  },
+  "imaginators|candy coated chopscotch": {
+    "name": "Candy-Coated Chopscotch",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--candy-coated-chopscotch.webp",
+    "card": "cards/imaginators--candy-coated-chopscotch.webp",
+    "source": "Card Printouts/6. Imaginators/Candy-Coated Chopscotch.jpg"
+  },
+  "imaginators|chain reaction": {
+    "name": "Chain Reaction",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--chain-reaction.webp",
+    "card": "cards/imaginators--chain-reaction.webp",
+    "source": "Card Printouts/6. Imaginators/Chain Reaction.jpg"
+  },
+  "imaginators|chompy mage": {
+    "name": "Chompy Mage",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--chompy-mage.webp",
+    "card": "cards/imaginators--chompy-mage.webp",
+    "source": "Card Printouts/6. Imaginators/Chompy Mage.jpg"
+  },
+  "imaginators|chopscotch": {
+    "name": "Chopscotch",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--chopscotch.webp",
+    "card": "cards/imaginators--chopscotch.webp",
+    "source": "Card Printouts/6. Imaginators/Chopscotch.jpg"
+  },
+  "imaginators|crash bandicoot": {
+    "name": "Crash Bandicoot",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crash-bandicoot.webp",
+    "card": "cards/imaginators--crash-bandicoot.webp",
+    "source": "Card Printouts/6. Imaginators/Crash Bandicoot.jpg"
+  },
+  "imaginators|dark golden queen": {
+    "name": "Dark Golden Queen",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--dark-golden-queen.webp",
+    "card": "cards/imaginators--dark-golden-queen.webp",
+    "source": "Card Printouts/6. Imaginators/Dark Golden Queen.jpg"
+  },
+  "imaginators|dark king pen": {
+    "name": "Dark King Pen",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--dark-king-pen.webp",
+    "card": "cards/imaginators--dark-king-pen.webp",
+    "source": "Card Printouts/6. Imaginators/Dark King Pen.jpg"
+  },
+  "imaginators|dark wolfgang": {
+    "name": "Dark Wolfgang",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--dark-wolfgang.webp",
+    "card": "cards/imaginators--dark-wolfgang.webp",
+    "source": "Card Printouts/6. Imaginators/Dark Wolfgang.jpg"
+  },
+  "imaginators|dr krankcase": {
+    "name": "Dr Krankcase",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--dr-krankcase.webp",
+    "card": "cards/imaginators--dr-krankcase.webp",
+    "source": "Card Printouts/6. Imaginators/Dr Krankcase.jpg"
+  },
+  "imaginators|dr neo cortex": {
+    "name": "Dr Neo Cortex",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--dr-neo-cortex.webp",
+    "card": "cards/imaginators--dr-neo-cortex.webp",
+    "source": "Card Printouts/6. Imaginators/Dr Neo Cortex.jpg"
+  },
+  "imaginators|egg bomber air strike": {
+    "name": "Egg Bomber Air Strike",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--egg-bomber-air-strike.webp",
+    "card": "cards/imaginators--egg-bomber-air-strike.webp",
+    "source": "Card Printouts/6. Imaginators/Egg Bomber Air Strike.jpg"
+  },
+  "imaginators|ember": {
+    "name": "Ember",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--ember.webp",
+    "card": "cards/imaginators--ember.webp",
+    "source": "Card Printouts/6. Imaginators/Ember.jpg"
+  },
+  "imaginators|enchanted elven forest": {
+    "name": "Enchanted Elven Forest",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--enchanted-elven-forest.webp",
+    "card": "cards/imaginators--enchanted-elven-forest.webp",
+    "source": "Card Printouts/6. Imaginators/Enchanted Elven Forest.jpg"
+  },
+  "imaginators|flare wolf": {
+    "name": "Flare Wolf",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--flare-wolf.webp",
+    "card": "cards/imaginators--flare-wolf.webp",
+    "source": "Card Printouts/6. Imaginators/Flare Wolf.jpg"
+  },
+  "imaginators|golden queen": {
+    "name": "Golden Queen",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--golden-queen.webp",
+    "card": "cards/imaginators--golden-queen.webp",
+    "source": "Card Printouts/6. Imaginators/Golden Queen.jpg"
+  },
+  "imaginators|goldie": {
+    "name": "Goldie",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--goldie.webp",
+    "card": "cards/imaginators--goldie.webp",
+    "source": "Card Printouts/6. Imaginators/Goldie.jpg"
+  },
+  "imaginators|grave clobber": {
+    "name": "Grave Clobber",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--grave-clobber.webp",
+    "card": "cards/imaginators--grave-clobber.webp",
+    "source": "Card Printouts/6. Imaginators/Grave Clobber.jpg"
+  },
+  "imaginators|gryphon park observatory": {
+    "name": "Gryphon Park Observatory",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--gryphon-park-observatory.webp",
+    "card": "cards/imaginators--gryphon-park-observatory.webp",
+    "source": "Card Printouts/6. Imaginators/Gryphon Park Observatory.jpg"
+  },
+  "imaginators|hard boiled flare wolf": {
+    "name": "Hard-Boiled Flare Wolf",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--hard-boiled-flare-wolf.webp",
+    "card": "cards/imaginators--hard-boiled-flare-wolf.webp",
+    "source": "Card Printouts/6. Imaginators/Hard-Boiled Flare Wolf.jpg"
+  },
+  "imaginators|hearthbreaker buckshot": {
+    "name": "Hearthbreaker Buckshot",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--hearthbreaker-buckshot.webp",
+    "card": "cards/imaginators--hearthbreaker-buckshot.webp",
+    "source": "Card Printouts/6. Imaginators/Hearthbreaker Buckshot.jpg"
+  },
+  "imaginators|hood sickle": {
+    "name": "Hood Sickle",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--hood-sickle.webp",
+    "card": "cards/imaginators--hood-sickle.webp",
+    "source": "Card Printouts/6. Imaginators/Hood Sickle.jpg"
+  },
+  "imaginators|jingle bell chompy mage": {
+    "name": "Jingle Bell Chompy Mage",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--jingle-bell-chompy-mage.webp",
+    "card": "cards/imaginators--jingle-bell-chompy-mage.webp",
+    "source": "Card Printouts/6. Imaginators/Jingle Bell Chompy Mage.jpg"
+  },
+  "imaginators|kaos": {
+    "name": "Kaos",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--kaos.webp",
+    "card": "cards/imaginators--kaos.webp",
+    "source": "Card Printouts/6. Imaginators/Kaos.jpg"
+  },
+  "imaginators|king pen": {
+    "name": "King Pen",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--king-pen.webp",
+    "card": "cards/imaginators--king-pen.webp",
+    "source": "Card Printouts/6. Imaginators/King Pen.jpg"
+  },
+  "imaginators|legendary pit boss": {
+    "name": "Legendary Pit Boss",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--legendary-pit-boss.webp",
+    "card": "cards/imaginators--legendary-pit-boss.webp",
+    "source": "Card Printouts/6. Imaginators/Legendary Pit Boss.jpg"
+  },
+  "imaginators|legendary tri tip": {
+    "name": "Legendary Tri-Tip",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--legendary-tri-tip.webp",
+    "card": "cards/imaginators--legendary-tri-tip.webp",
+    "source": "Card Printouts/6. Imaginators/Legendary Tri-Tip.jpg"
+  },
+  "imaginators|mystical bad juju": {
+    "name": "Mystical Bad Juju",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--mystical-bad-juju.webp",
+    "card": "cards/imaginators--mystical-bad-juju.webp",
+    "source": "Card Printouts/6. Imaginators/Mystical Bad Juju.jpg"
+  },
+  "imaginators|mystical tae kwon crow": {
+    "name": "Mystical Tae Kwon Crow",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--mystical-tae-kwon-crow.webp",
+    "card": "cards/imaginators--mystical-tae-kwon-crow.webp",
+    "source": "Card Printouts/6. Imaginators/Mystical Tae Kwon Crow.jpg"
+  },
+  "imaginators|mysticat": {
+    "name": "Mysticat",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--mysticat.webp",
+    "card": "cards/imaginators--mysticat.webp",
+    "source": "Card Printouts/6. Imaginators/Mysticat.jpg"
+  },
+  "imaginators|pain yatta": {
+    "name": "Pain-Yatta",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--pain-yatta.webp",
+    "card": "cards/imaginators--pain-yatta.webp",
+    "source": "Card Printouts/6. Imaginators/Pain-Yatta.jpg"
+  },
+  "imaginators|pit boss": {
+    "name": "Pit Boss",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--pit-boss.webp",
+    "card": "cards/imaginators--pit-boss.webp",
+    "source": "Card Printouts/6. Imaginators/Pit Boss.jpg"
+  },
+  "imaginators|ro bow": {
+    "name": "Ro-Bow",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--ro-bow.webp",
+    "card": "cards/imaginators--ro-bow.webp",
+    "source": "Card Printouts/6. Imaginators/Ro-Bow.jpg"
+  },
+  "imaginators|solar flare aurora": {
+    "name": "Solar Flare Aurora",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--solar-flare-aurora.webp",
+    "card": "cards/imaginators--solar-flare-aurora.webp",
+    "source": "Card Printouts/6. Imaginators/Solar Flare Aurora.jpg"
+  },
+  "imaginators|starcast": {
+    "name": "Starcast",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--starcast.webp",
+    "card": "cards/imaginators--starcast.webp",
+    "source": "Card Printouts/6. Imaginators/Starcast.jpg"
+  },
+  "imaginators|steel plated hood sickle": {
+    "name": "Steel Plated Hood Sickle",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--steel-plated-hood-sickle.webp",
+    "card": "cards/imaginators--steel-plated-hood-sickle.webp",
+    "source": "Card Printouts/6. Imaginators/Steel Plated Hood Sickle.jpg"
+  },
+  "imaginators|tae kwon crow": {
+    "name": "Tae Kwon Crow",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--tae-kwon-crow.webp",
+    "card": "cards/imaginators--tae-kwon-crow.webp",
+    "source": "Card Printouts/6. Imaginators/Tae Kwon Crow.jpg"
+  },
+  "imaginators|tidepool": {
+    "name": "Tidepool",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--tidepool.webp",
+    "card": "cards/imaginators--tidepool.webp",
+    "source": "Card Printouts/6. Imaginators/Tidepool.jpg"
+  },
+  "imaginators|tri tip": {
+    "name": "Tri Tip",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--tri-tip.webp",
+    "card": "cards/imaginators--tri-tip.webp",
+    "source": "Card Printouts/6. Imaginators/Tri Tip.jpg"
+  },
+  "imaginators|wild storm": {
+    "name": "Wild Storm",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--wild-storm.webp",
+    "card": "cards/imaginators--wild-storm.webp",
+    "source": "Card Printouts/6. Imaginators/Wild Storm.jpg"
+  },
+  "imaginators|wolfgang": {
+    "name": "Wolfgang",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--wolfgang.webp",
+    "card": "cards/imaginators--wolfgang.webp",
+    "source": "Card Printouts/6. Imaginators/Wolfgang.jpg"
+  }
+}

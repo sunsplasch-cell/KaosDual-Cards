@@ -3575,5 +3575,110 @@
     "portrait": "portraits/imaginators--wolfgang.webp",
     "card": "cards/imaginators--wolfgang.webp",
     "source": "Card Printouts/6. Imaginators/Wolfgang.jpg"
+  },
+  "imaginators|airstrike eggbomber": {
+    "name": "Airstrike-Eggbomber",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--airstrike-eggbomber.webp",
+    "card": "cards/imaginators--airstrike-eggbomber.webp",
+    "source": "Missing-images/Egg-Bomber-Air-Strike.jpg"
+  },
+  "imaginators|crystal air lantern key": {
+    "name": "CRYSTAL_-_AIR_Lantern.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-air-lantern-key.webp",
+    "card": "cards/imaginators--crystal-air-lantern-key.webp",
+    "source": "Missing-images/AirLanternCreationCrystalWM.png"
+  },
+  "imaginators|crystal dark pyramid key": {
+    "name": "CRYSTAL_-_DARK_Pyramid.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-dark-pyramid-key.webp",
+    "card": "cards/imaginators--crystal-dark-pyramid-key.webp",
+    "source": "Missing-images/DarkPyramidCreationCrystalWM.png"
+  },
+  "imaginators|crystal earth rocket key": {
+    "name": "CRYSTAL_-_EARTH_Rocket.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-earth-rocket-key.webp",
+    "card": "cards/imaginators--crystal-earth-rocket-key.webp",
+    "source": "Missing-images/EarthRocketCreationCrystalWM.png"
+  },
+  "imaginators|crystal fire reactor key": {
+    "name": "CRYSTAL_-_FIRE_Reactor.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-fire-reactor-key.webp",
+    "card": "cards/imaginators--crystal-fire-reactor-key.webp",
+    "source": "Missing-images/FireReactorCreationCrystalWM.png"
+  },
+  "imaginators|crystal life acorn key": {
+    "name": "CRYSTAL_-_LIFE_Acorn.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-life-acorn-key.webp",
+    "card": "cards/imaginators--crystal-life-acorn-key.webp",
+    "source": "Missing-images/LifeAcornCreationCrystalWM.png"
+  },
+  "imaginators|crystal light rune key": {
+    "name": "CRYSTAL_-_LIGHT_Rune.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-light-rune-key.webp",
+    "card": "cards/imaginators--crystal-light-rune-key.webp",
+    "source": "Missing-images/LightRuneCreationCrystalWM.png"
+  },
+  "imaginators|crystal magic claw key": {
+    "name": "CRYSTAL_-_MAGIC_Claw.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-magic-claw-key.webp",
+    "card": "cards/imaginators--crystal-magic-claw-key.webp",
+    "source": "Missing-images/MagicClawCreationCrystalWM.png"
+  },
+  "imaginators|crystal tech armor key": {
+    "name": "CRYSTAL_-_TECH_Armor.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-tech-armor-key.webp",
+    "card": "cards/imaginators--crystal-tech-armor-key.webp",
+    "source": "Missing-images/TechArmorCreationCrystalWM.png"
+  },
+  "imaginators|crystal undead fanged key": {
+    "name": "CRYSTAL_-_UNDEAD_Fanged.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-undead-fanged-key.webp",
+    "card": "cards/imaginators--crystal-undead-fanged-key.webp",
+    "source": "Missing-images/UndeadFangedCreationCrystalWM.png"
+  },
+  "imaginators|crystal water armor key": {
+    "name": "CRYSTAL_-_WATER_Armor.key",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--crystal-water-armor-key.webp",
+    "card": "cards/imaginators--crystal-water-armor-key.webp",
+    "source": "Missing-images/WaterArmorCreationCrystalWM.png"
+  },
+  "imaginators|chompymage jinglebell": {
+    "name": "Chompymage-Jinglebell",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--chompymage-jinglebell.webp",
+    "card": "cards/imaginators--chompymage-jinglebell.webp",
+    "source": "Missing-images/Chompy-Mage.jpg"
+  },
+  "imaginators|aurora solarflare": {
+    "name": "Aurora-Solarflare",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--aurora-solarflare.webp",
+    "card": "cards/imaginators--aurora-solarflare.webp",
+    "source": "Missing-images/Solar-Flare-Aurora.jpg"
+  },
+  "imaginators|chop scotch candy coated": {
+    "name": "Chop_Scotch-Candy-Coated",
+    "game": "imaginators",
+    "portrait": "portraits/imaginators--chop-scotch-candy-coated.webp",
+    "card": "cards/imaginators--chop-scotch-candy-coated.webp",
+    "source": "Missing-images/CandyCoatedChopscotch.png"
+  },
+  "giants|platinum hidden treasure": {
+    "name": "Platinum Hidden Treasure",
+    "game": "giants",
+    "portrait": "portraits/giants--platinum-hidden-treasure.webp",
+    "card": "cards/giants--platinum-hidden-treasure.webp",
+    "source": "Missing-images/Platinum-Treasure-Chest.jpg"
   }
 }
